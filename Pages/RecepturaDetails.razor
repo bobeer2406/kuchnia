@@ -1,4 +1,4 @@
-﻿@page "/receptura/{Nazwa}"
+﻿@page "/receptura/{nazwa}"
 
 @inject RaportOnline.Services.RecepturaService RecepturaService
 
@@ -40,7 +40,8 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync("data/Receptury.json");
-        receptura = wszystkieReceptury.FirstOrDefault(r => r.nazwa == Nazwa);
+        var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync("https://raw.githubusercontent.com/bobeer2406/kuchnia/main/data/Receptury.json");
+        receptura = wszystkieReceptury.FirstOrDefault(r =>
+     string.Equals(r.nazwa?.Trim(), Nazwa?.Trim(), StringComparison.OrdinalIgnoreCase));
     }
 }
