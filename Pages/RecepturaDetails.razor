@@ -1,0 +1,46 @@
+﻿@page "/receptura/{Nazwa}"
+
+@inject RaportOnline.Services.RecepturaService RecepturaService
+
+<h3>Szczegóły receptury: @Nazwa</h3>
+
+@if (receptura == null)
+{
+    <p>Ładowanie szczegółów...</p>
+}
+else
+{
+    <h4>@receptura.Nazwa</h4>
+
+    <h5>Składniki:</h5>
+    <ul>
+        @foreach (var s in receptura.Skladniki)
+        {
+            <li>@s</li>
+        }
+    </ul>
+
+    <h5>Zalewa:</h5>
+    <ul>
+        @foreach (var z in receptura.Zalewa)
+        {
+            <li>@z</li>
+        }
+    </ul>
+
+    <h5>Przygotowanie:</h5>
+    <p>@receptura.Przygotowanie</p>
+}
+
+@code {
+    [Parameter]
+    public string Nazwa { get; set; }
+
+    private RaportOnline.Services.Receptura receptura;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync("data/Receptury.json");
+        receptura = wszystkieReceptury.FirstOrDefault(r => r.Nazwa == Nazwa);
+    }
+}

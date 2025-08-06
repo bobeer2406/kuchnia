@@ -17,7 +17,9 @@ else
     <ul>
         @foreach (var r in receptury)
         {
-            <li>@r.Nazwa</li>
+            <li>
+                <a href="@($"/receptura/{Uri.EscapeDataString(r.Nazwa)}")">@r.Nazwa</a>
+            </li>
         }
     </ul>
 }
@@ -29,10 +31,8 @@ else
     {
         try
         {
-            string status = "Ładowanie danych...";
-            receptury = await RecepturaService.PobierzRecepturyAsync("data/Receptury.json");
-            
-            status = "Dane załadowane.";
+            string url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/refs/heads/main/data/Receptury.json";
+            receptury = await RecepturaService.PobierzRecepturyAsync(url);
         }
         catch (Exception ex)
         {
