@@ -1,0 +1,43 @@
+﻿@inject RaportOnline.Services.RecepturaService RecepturaService
+@page "/Receptura"
+<h3>Receptura</h3>
+
+
+
+@if (receptury == null)
+{
+    <p>Ładowanie danych...</p>
+}
+else if (receptury.Count == 0)
+{
+    <p>Brak receptur do wyświetlenia.</p>
+}
+else
+{
+    <ul>
+        @foreach (var r in receptury)
+        {
+            <li>@r.Nazwa</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<RaportOnline.Services.Receptura> receptury;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            string status = "Ładowanie danych...";
+            receptury = await RecepturaService.PobierzRecepturyAsync("data/Receptury.json");
+            
+            status = "Dane załadowane.";
+        }
+        catch (Exception ex)
+        {
+            string status = $"Błąd podczas ładowania danych: {ex.Message}";
+        }
+    }
+   
+}
