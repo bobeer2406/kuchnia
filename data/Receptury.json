@@ -1,36 +1,36 @@
 [
   {
-    "Nazwa": "Sałata z kapustą",
-    "Skladniki": [
+    "nazwa": "Sałata z kapustą",
+    "skladniki": [
       "1 kg kapusty",
       "1/2 kg cebuli",
       "1/2 kg papryki",
       "1 kg marchwi"
     ],
-    "Zalewa": [
+    "zalewa": [
       "1 szklanka octu",
       "1 szklanka cukru",
       "1/2 szklanki oleju",
       "2 łyżki soli",
       "2 łyżeczki pieprzu ziołowego"
     ],
-    "Przygotowanie": "Warzywa pokroić, zalać zagotowaną zalewą, wymieszać i odstawić na 12 h w chłodne miejsce. Następnie umieścić dość ściśle w słoikach i pasteryzować 15 minut."
+    "przygotowanie": "Warzywa pokroić, zalać zagotowaną zalewą, wymieszać i odstawić na 12 h w chłodne miejsce. Następnie umieścić dość ściśle w słoikach i pasteryzować 15 minut."
   },
   {
-    "Nazwa": "Ogórki korniszone",
-    "Skladniki": [
+    "nazwa": "Ogórki korniszone",
+    "skladniki": [
       "3-4 kg ogórków",
       "Cebula",
       "Marchew",
       "Koper",
       "Gorczyca"
     ],
-    "Zalewa": [
+    "zalewa": [
       "4 litry wody",
       "0,5 litra octu",
       "10 łyżek cukru",
       "5 łyżek soli"
     ],
-    "Przygotowanie": "Zalewę wlać gorącą i gotować aż ogórki zmienią kolor"
+    "przygotowanie": "Zalewę wlać gorącą i gotować aż ogórki zmienią kolor"
   }
 ]

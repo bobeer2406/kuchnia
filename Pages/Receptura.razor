@@ -18,7 +18,7 @@ else
         @foreach (var r in receptury)
         {
             <li>
-                <a href="@($"/receptura/{Uri.EscapeDataString(r.Nazwa)}")">@r.Nazwa</a>
+                <a href="@($"/receptura/{Uri.EscapeDataString(r.nazwa)}")">@r.nazwa</a>
             </li>
         }
     </ul>

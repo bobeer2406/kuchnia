@@ -38,9 +38,9 @@ namespace RaportOnline.Services
 {
     public class Receptura
     {
-        public string Nazwa { get; set; }
-        public List<string> Skladniki { get; set; }
-        public List<string> Zalewa { get; set; }
-        public string Przygotowanie { get; set; }
+        public string nazwa { get; set; }
+        public List<string> skladniki { get; set; }
+        public List<string> zalewa { get; set; }
+        public string przygotowanie { get; set; }
     }
 }

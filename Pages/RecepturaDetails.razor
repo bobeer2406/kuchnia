@@ -10,11 +10,11 @@
 }
 else
 {
-    <h4>@receptura.Nazwa</h4>
+    <h4>@receptura.nazwa</h4>
 
     <h5>Składniki:</h5>
     <ul>
-        @foreach (var s in receptura.Skladniki)
+        @foreach (var s in receptura.skladniki)
         {
             <li>@s</li>
         }
@@ -22,14 +22,14 @@ else
 
     <h5>Zalewa:</h5>
     <ul>
-        @foreach (var z in receptura.Zalewa)
+        @foreach (var z in receptura.zalewa)
         {
             <li>@z</li>
         }
     </ul>
 
     <h5>Przygotowanie:</h5>
-    <p>@receptura.Przygotowanie</p>
+    <p>@receptura.przygotowanie</p>
 }
 
 @code {
@@ -41,6 +41,6 @@ else
     protected override async Task OnInitializedAsync()
     {
         var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync("data/Receptury.json");
-        receptura = wszystkieReceptury.FirstOrDefault(r => r.Nazwa == Nazwa);
+        receptura = wszystkieReceptury.FirstOrDefault(r => r.nazwa == Nazwa);
     }
 }
