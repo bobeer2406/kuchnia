@@ -1,36 +1,25 @@
 [
   {
-    "nazwa": "Sałata z kapustą",
-    "skladniki": [
-      "1 kg kapusty",
-      "1/2 kg cebuli",
-      "1/2 kg papryki",
-      "1 kg marchwi"
-    ],
-    "zalewa": [
-      "1 szklanka octu",
-      "1 szklanka cukru",
-      "1/2 szklanki oleju",
-      "2 łyżki soli",
-      "2 łyżeczki pieprzu ziołowego"
-    ],
-    "przygotowanie": "Warzywa pokroić, zalać zagotowaną zalewą, wymieszać i odstawić na 12 h w chłodne miejsce. Następnie umieścić dość ściśle w słoikach i pasteryzować 15 minut."
-  },
-  {
-    "nazwa": "Ogórki korniszone",
-    "skladniki": [
-      "3-4 kg ogórków",
-      "Cebula",
-      "Marchew",
-      "Koper",
-      "Gorczyca"
-    ],
-    "zalewa": [
-      "4 litry wody",
-      "0,5 litra octu",
-      "10 łyżek cukru",
-      "5 łyżek soli"
-    ],
-    "przygotowanie": "Zalewę wlać gorącą i gotować aż ogórki zmienią kolor"
-  }
+  "Nazwa": "Chałka",
+  "Kategoria": "Wypieki",
+  "Składniki": [
+    "605 g mąki",
+    "66 g cukru",
+    "50 g margaryny",
+    "20 g drożdży",
+    "1 płaska łyżeczka soli",
+    "1 jajko do posmarowania",
+    "ziarna sezamu lub kruszonka"
+  ],
+  "Sposób przygotowania": [
+    "Mleko, margarynę, cukier i drożdże lekko podgrzać.",
+    "Wsypać mąkę i sól, dodać płynne składniki i wyrobić ciasto.",
+    "Odstawić do wyrośnięcia na 1 godzinę.",
+    "Podzielić ciasto na 9 wałków i uformować 3 chałki.",
+    "Posmarować jajkiem, posypać sezamem lub kruszonką.",
+    "Piec w temperaturze 180°C z termoobiegiem przez 30 minut."
+  ],
+  "Temperatura pieczenia": "180°C",
+  "Czas pieczenia": "30 minut"
+}
 ]
