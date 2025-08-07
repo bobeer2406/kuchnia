@@ -32,5 +32,54 @@
       "5 łyżek soli"
     ],
     "przygotowanie": "Zalewę wlać gorącą i gotować aż ogórki zmienią kolor"
-  }
+  },
+  {
+  "Nazwa": "Buraki z papryką",
+  "Skladniki": [
+    "3 kg buraków ugotowanych, startych na jarzynówce",
+    "3 papryki czerwone",
+    "7 średnich cebul"
+  ],
+  "Zalewa": [
+    "1 szklanka octu",
+    "1 1/2 szklanki wody",
+    "1 1/2 szklanki cukru",
+    "1 kopiasta łyżka soli"
+  ],
+  "Przygotowanie": "Do zagotowanej zalewy wrzucić pokrojoną paprykę i cebulę, gotować 10 minut. Następnie dodać starte buraki, zagotować i gorące nakładać do słoików."
+},
+{
+  "Nazwa": "Cukinia",
+  "Skladniki": [
+    "2 kg cukinii",
+    "5 cebul",
+    "2 duże papryki",
+    "3 ząbki czosnku",
+    "2 marchewki",
+    "1 kg ogórków",
+    "8 ziaren ziela angielskiego",
+    "6 liści laurowych",
+    "1 czubata łyżka soli"
+  ],
+  "Zalewa": [
+    "1 szklanka cukru",
+    "1/2 szklanki oleju",
+    "1 szklanka octu"
+  ],
+  "Przygotowanie": "Zagotować zalewę. Cukinię i ogórki pokroić w kostkę (nie obierać), dodać sól i wymieszać z resztą składników. Zalać gorącą zalewą i odstawić na 24 godziny. Następnie pasteryzować 15 minut."
+},
+{
+  "Nazwa": "Mizeria z ogórków",
+  "Skladniki": [
+    "10 kg ogórków",
+    "1 kg cebuli",
+    "sól do zasolenia ogórków"
+  ],
+  "Zalewa": [
+    "4 szklanki wody",
+    "1 szklanka octu",
+    "1 kg cukru (na 4 kg ogórków)"
+  ],
+  "Przygotowanie": "Ogórki umyć, pokroić na cienkie plasterki i dobrze posolić. Na drugi dzień odcisnąć i dodać pokrojoną cebulę. Zagotować wodę z octem i cukrem. Ogórki oparzyć, zagotować i gorące wkładać do słoików."
+}
 ]
