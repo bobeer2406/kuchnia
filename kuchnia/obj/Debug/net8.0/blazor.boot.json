@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kuchnia",
   "resources": {
-    "hash": "sha256-VsEZBw/BWi2uJQyWDKwP1p55iiFWzJ+gdWNhm5zqxD0=",
+    "hash": "sha256-eYlh82LYf1Vuze5FdL0nlPESBv1mOZK5NQbIWvF2zC0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-Im6xq+lOse4P/VnAyrA3hwPstV67V5dB0EwQWcjipyE=",
       "netstandard.wasm": "sha256-PK0GLtj6kQVtZPzq0FZlnSdHh7geujg80LqKdJXA4pI=",
       "System.Private.CoreLib.wasm": "sha256-gEwccs7GbRSPGmeWBOKxNroYfyM+mZ7hqbP3ki1iwX0=",
-      "kuchnia.wasm": "sha256-u6mRTCRqMtO3w9FCRmk0AqwslgC+r05wAy3oar75Fxo="
+      "kuchnia.wasm": "sha256-r47EAsiKPTWvfW/nJdkHLE3jIieH+U0ySSxpca0M5sQ="
     },
     "pdb": {
-      "kuchnia.pdb": "sha256-8ms2arVNQ1i7E8GdJoHFKiQ8+ceG01Xo6uRDo0gxGxk="
+      "kuchnia.pdb": "sha256-Kz+11bHioeL5MVmhwvvl0snEeA//yUEfgyZ6P108wvs="
     }
   },
   "cacheBootResources": true,

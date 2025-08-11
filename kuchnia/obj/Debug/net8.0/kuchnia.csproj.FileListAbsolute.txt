@@ -1020,9 +1020,6 @@ C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\0bafv2pd6j-tjcz0u77k5.gz
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\az6eea0vm3-tptq2av103.gz
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\dxxq4wue15-lfu7j35m59.gz
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\o2x9ponige-oyz0vx2fzb.gz
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\ydmsvpccop-hdm0t61v62.gz
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\u754whlv7g-eg0jnxvqqc.gz
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\fre3kjn26j-2d5lq5oedv.gz
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\staticwebassets.build.json
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\staticwebassets.development.json
@@ -1033,3 +1030,8 @@ C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\kuchnia.dll
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\refint\kuchnia.dll
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\kuchnia.pdb
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\ref\kuchnia.dll
+C:\GIT\priv\kuchnia\kuchnia\bin\Debug\net8.0\data\Przepisy.json
+C:\GIT\priv\kuchnia\kuchnia\bin\Debug\net8.0\data\Receptury.json
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\ydmsvpccop-tlojahgxt9.gz
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\u754whlv7g-damkf1goq4.gz
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\fre3kjn26j-2gsejwbw34.gz

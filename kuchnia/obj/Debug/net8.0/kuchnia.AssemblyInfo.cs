@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kuchnia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21054f62989f7bb506bfbc4c4db3af6142ab51f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7de138de8aa4e7c77a768cb061570bb2703bec4")]
 [assembly: System.Reflection.AssemblyProductAttribute("kuchnia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kuchnia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

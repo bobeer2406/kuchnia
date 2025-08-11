@@ -1,6 +1,6 @@
 [
   {
-    "nazwa": "Sałata z kapustą",
+    "nazwa": "Salata z kapusta",
     "skladniki": [
       "1 kg kapusty",
       "1/2 kg cebuli",
@@ -11,15 +11,15 @@
       "1 szklanka octu",
       "1 szklanka cukru",
       "1/2 szklanki oleju",
-      "2 łyżki soli",
-      "2 łyżeczki pieprzu ziołowego"
+      "2 lyżki soli",
+      "2 lyżeczki pieprzu ziolowego"
     ],
-    "przygotowanie": "Warzywa pokroić, zalać zagotowaną zalewą, wymieszać i odstawić na 12 h w chłodne miejsce. Następnie umieścić dość ściśle w słoikach i pasteryzować 15 minut."
+    "przygotowanie": "Warzywa pokroic, zalac zagotowana zalewa, wymieszac i odstawic na 12 h w chlodne miejsce. Następnie umieścic dośc ściśle w sloikach i pasteryzowac 15 minut."
   },
   {
-    "nazwa": "Ogórki korniszone",
+    "nazwa": "Ogorki korniszone",
     "skladniki": [
-      "3-4 kg ogórków",
+      "3-4 kg ogorkow",
       "Cebula",
       "Marchew",
       "Koper",
@@ -28,15 +28,15 @@
     "zalewa": [
       "4 litry wody",
       "0,5 litra octu",
-      "10 łyżek cukru",
-      "5 łyżek soli"
+      "10 lyżek cukru",
+      "5 lyżek soli"
     ],
-    "przygotowanie": "Zalewę wlać gorącą i gotować aż ogórki zmienią kolor"
+    "przygotowanie": "Zalewę wlac goraca i gotowac aż ogorki zmienia kolor"
   },
   {
-  "Nazwa": "Buraki z papryką",
+  "Nazwa": "Buraki z papryka",
   "Skladniki": [
-    "3 kg buraków ugotowanych, startych na jarzynówce",
+    "3 kg burakow ugotowanych, startych na jarzynowce",
     "3 papryki czerwone",
     "7 średnich cebul"
   ],
@@ -44,9 +44,9 @@
     "1 szklanka octu",
     "1 1/2 szklanki wody",
     "1 1/2 szklanki cukru",
-    "1 kopiasta łyżka soli"
+    "1 kopiasta lyżka soli"
   ],
-  "Przygotowanie": "Do zagotowanej zalewy wrzucić pokrojoną paprykę i cebulę, gotować 10 minut. Następnie dodać starte buraki, zagotować i gorące nakładać do słoików."
+  "Przygotowanie": "Do zagotowanej zalewy wrzucic pokrojona paprykę i cebulę, gotowac 10 minut. Następnie dodac starte buraki, zagotowac i gorace nakladac do sloikow."
 },
 {
   "Nazwa": "Cukinia",
@@ -54,32 +54,32 @@
     "2 kg cukinii",
     "5 cebul",
     "2 duże papryki",
-    "3 ząbki czosnku",
+    "3 zabki czosnku",
     "2 marchewki",
-    "1 kg ogórków",
+    "1 kg ogorkow",
     "8 ziaren ziela angielskiego",
     "6 liści laurowych",
-    "1 czubata łyżka soli"
+    "1 czubata lyżka soli"
   ],
   "Zalewa": [
     "1 szklanka cukru",
     "1/2 szklanki oleju",
     "1 szklanka octu"
   ],
-  "Przygotowanie": "Zagotować zalewę. Cukinię i ogórki pokroić w kostkę (nie obierać), dodać sól i wymieszać z resztą składników. Zalać gorącą zalewą i odstawić na 24 godziny. Następnie pasteryzować 15 minut."
+  "Przygotowanie": "Zagotowac zalewę. Cukinię i ogorki pokroic w kostkę (nie obierac), dodac sol i wymieszac z reszta skladnikow. Zalac goraca zalewa i odstawic na 24 godziny. Następnie pasteryzowac 15 minut."
 },
 {
-  "Nazwa": "Mizeria z ogórków",
+  "Nazwa": "Mizeria z ogorkow",
   "Skladniki": [
-    "10 kg ogórków",
+    "10 kg ogorkow",
     "1 kg cebuli",
-    "sól do zasolenia ogórków"
+    "sol do zasolenia ogorkow"
   ],
   "Zalewa": [
     "4 szklanki wody",
     "1 szklanka octu",
-    "1 kg cukru (na 4 kg ogórków)"
+    "1 kg cukru (na 4 kg ogorkow)"
   ],
-  "Przygotowanie": "Ogórki umyć, pokroić na cienkie plasterki i dobrze posolić. Na drugi dzień odcisnąć i dodać pokrojoną cebulę. Zagotować wodę z octem i cukrem. Ogórki oparzyć, zagotować i gorące wkładać do słoików."
+  "Przygotowanie": "Ogorki umyc, pokroic na cienkie plasterki i dobrze posolic. Na drugi dzień odcisnac i dodac pokrojona cebulę. Zagotowac wodę z octem i cukrem. Ogorki oparzyc, zagotowac i gorace wkladac do sloikow."
 }
 ]

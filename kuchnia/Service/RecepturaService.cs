@@ -42,5 +42,5 @@ namespace kuchnia.Service
             public string przygotowanie { get; set; }
         }
     }
-}
-}
+
+
