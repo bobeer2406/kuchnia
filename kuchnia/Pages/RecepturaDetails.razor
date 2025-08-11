@@ -1,9 +1,8 @@
-﻿Details@page "/Receptura/{nazwa}"
+﻿@page "/Receptura/{Nazwa}"
 
 @inject kuchnia.Service.RecepturaService RecepturaService
 
 <h3>Szczegóły receptury: @Nazwa</h3>
-
 
 @if (receptura == null)
 {
@@ -41,9 +40,20 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync("https://raw.githubusercontent.com/bobeer2406/kuchnia/main/kuchnia/data/Receptury.json");
-        var decodedName = Uri.UnescapeDataString(Nazwa);
+        var url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/refs/heads/main/kuchnia/data/Receptury.json";
+        var wszystkieReceptury = await RecepturaService.PobierzRecepturyAsync(url);
+
+        var decodedName = Uri.UnescapeDataString(Nazwa ?? string.Empty);
+
         receptura = wszystkieReceptury.FirstOrDefault(r =>
-            string.Equals(r.nazwa?.Trim(), decodedName.Trim(), StringComparison.OrdinalIgnoreCase));
+            string.Equals(Normalize(r.nazwa), Normalize(decodedName), StringComparison.OrdinalIgnoreCase));
+    }
+
+    private string Normalize(string input)
+    {
+        if (string.IsNullOrEmpty(input)) return string.Empty;
+        var formD = input.Normalize(System.Text.NormalizationForm.FormD);
+        var chars = formD.Where(c => System.Globalization.CharUnicodeInfo.GetUnicodeCategory(c) != System.Globalization.UnicodeCategory.NonSpacingMark).ToArray();
+        return new string(chars).Normalize(System.Text.NormalizationForm.FormC);
     }
 }

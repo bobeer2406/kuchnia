@@ -1032,6 +1032,6 @@ C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\kuchnia.pdb
 C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\ref\kuchnia.dll
 C:\GIT\priv\kuchnia\kuchnia\bin\Debug\net8.0\data\Przepisy.json
 C:\GIT\priv\kuchnia\kuchnia\bin\Debug\net8.0\data\Receptury.json
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\ydmsvpccop-tlojahgxt9.gz
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\u754whlv7g-damkf1goq4.gz
-C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\fre3kjn26j-2gsejwbw34.gz
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\ydmsvpccop-ubp4o65knl.gz
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\u754whlv7g-l7fupirpqq.gz
+C:\GIT\priv\kuchnia\kuchnia\obj\Debug\net8.0\compressed\fre3kjn26j-tvjyvb4i6g.gz
