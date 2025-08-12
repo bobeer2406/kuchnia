@@ -17,13 +17,13 @@ else
         }
     </ul>
 
-    <h3>Gotowanie</h3>
+    <h3>Gotowanie mocne słowa</h3>
     <p>@piwo.gotowanie</p>
 
     <h3>Cicha Fermentacja</h3>
     <p>@piwo.fermentacja</p>
 
-    <h3>Butelkowanie</h3>
+    <h3>Butelkowanie i leeeeeżakowanie</h3>
     <p>@piwo.Butelkowanie</p>
 }
 
@@ -32,7 +32,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        var url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/main/kuchnia/data/Piwo.json";
+        var url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/refs/heads/main/kuchnia/data/Piwo.json";
 
         var lista = await RecepturaService.PobierzDaneAsync<kuchnia.Service.Piwo>(url);
 

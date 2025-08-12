@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kuchnia",
   "resources": {
-    "hash": "sha256-TJcrX067xzlfwXBPnxYqzwdW3CvVAXGIQTeiX7MhJtw=",
+    "hash": "sha256-6rqxoQrGBwLdu4EnYo8osbyPvn+XepZFc1rsph0ZtTo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -37,7 +37,7 @@
       "System.ComponentModel.wasm": "sha256-IYiS8atQVwkYAflPs8m6BRCgI2804RatWwg2UGnGMzU=",
       "System.Console.wasm": "sha256-hPECRwlKEllkRT2QC9o5MzZUIgUzftKpUrz33UPLVJw=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-JuJHacGWY0CcxmSWyosCX9iCSU/5wRNtfGqAVdktufE=",
-      "System.Linq.wasm": "sha256-c8mUm3Pfb3cEYkOsIxsVnalcdZd20y5olTaxdZi7V7c=",
+      "System.Linq.wasm": "sha256-PTt1hbYbKIqbp5TcAmljQz285NCZHGyGlgxb089qHIM=",
       "System.Memory.wasm": "sha256-MWAHg+YFxgBvZZyzqKGl4SjtgN2Rwy6LtleghJHqTr4=",
       "System.Net.Http.Json.wasm": "sha256-zpsG/FDH4Q51YDmwf67LEQDS3o3ZfsqLCF9jcI1kmZI=",
       "System.Net.Http.wasm": "sha256-tb9jn9dLSmZhN9qfzzEVAZZbz/PFb5P9P/HmzHlRq5Q=",
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-GDb/3QWVXmCkthIDhFAT+YpxnL0UhsjDh4mJ+Xv80iA=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
       "System.Private.CoreLib.wasm": "sha256-R4R6gpJoRrjjeLCvmdpP3Wzmiy4pTDFSPCWBZyefImk=",
-      "kuchnia.wasm": "sha256-xTeGN7rPFywi0gnU04G6FOg8IfS/s2z/UnHIijrGd00="
+      "kuchnia.wasm": "sha256-dpqsANqILKP8HGHduRgduuF/mLxpeSgbIBf1l8UVxIg="
     }
   },
   "cacheBootResources": true,
