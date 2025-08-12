@@ -41,6 +41,15 @@ namespace kuchnia.Service
             public List<string> zalewa { get; set; }
             public string przygotowanie { get; set; }
         }
-    }
+        public class Przepis
+        {
+        public string nazwa { get; set; }
+        public string Kategoria { get; set; }
+        public List<string> skladniki { get; set; }
+        public List<string> sposob_przygotowania { get; set; }
+        public string Temperatura_pieczenia { get; set; }
+        public string Czas_pieczenia { get; set; }
+        }
+ }
 
 
