@@ -1011,6 +1011,33 @@
     ],
     "Temperatura_pieczenia": "175°C",
     "Czas_pieczenia": "około 60 minut"
+  },
+  {
+    "Nazwa": "Mini serniczki",
+    "Kategoria": "Desery",
+    "Skladniki": [
+      "Spód:",
+      "150 g ciasteczek oreo lub herbatników petit beurre",
+      "Masa serowa:",
+      "500 g twarogu sernikowego",
+      "250 g mascarpone lub ricotty",
+      "2/3 szklanki cukru",
+      "1 budyń śmietankowy (w proszku)",
+      "1 cukier wanilinowy",
+      "1 jajko",
+      "opcjonalnie: 1 łyżeczka startej skórki z cytryny lub pomarańczy",
+      "Dekoracja:",
+      "4 łyżki mleka skondensowanego z tubki lub 50 g białej czekolady lub dżemu",
+      "owoce: maliny i/lub borówki",
+      "listki mięty do dekoracji"
+    ],
+    "Sposob_przygotowania": [
+      "Przygotować formę na 12 muffinów i wypełnić ją papilotkami. Piekarnik nagrzać do 180 stopni C (góra i dół bez termoobiegu). Ciasteczka zgrubnie posiekać na desce i włożyć do papilotek.",
+      "Zmielony twaróg sernikowy włożyć do miski, dodać mascarpone lub ricottę, cukier, budyń (proszek) i cukier wanilinowy oraz skórkę z cytrusów, jeśli jej używamy, zmiksować na jednolitą masę lub wymieszać dokładnie łyżką. Dodać jajko i znów zmiksować do połączenia się składników.",
+      "Masę wyłożyć na ciasteczka do wysokości papilotki. Wstawić do piekarnika i piec przez ok. 15 minut do ścięcia się masy. Wyjąć z piekarnika i przestudzić.",
+      "Wierzch posmarować cienką warstwą mleka skondensowanego, roztopionej czekolady lub powidłami i ułożyć owoce, udekorować listkami mięty."
+    ],
+    "Temperatura_pieczenia": "180°C",
+    "Czas_pieczenia": "około 15 minut"
   }
-
 ]
