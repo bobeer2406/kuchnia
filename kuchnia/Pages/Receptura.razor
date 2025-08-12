@@ -1,8 +1,7 @@
 ﻿@inject kuchnia.Service.RecepturaService RecepturaService
 @page "/Receptura"
-<h3>Receptura</h3>
 
-
+<h3>Wybierz recepturę</h3>
 
 @if (receptury == null)
 {
@@ -14,31 +13,60 @@ else if (receptury.Count == 0)
 }
 else
 {
-    <ul>
+    <select @onchange="OnRecepturaChanged" class="form-select">
+        <option value="">-- Wybierz recepturę --</option>
         @foreach (var r in receptury)
         {
-            <li>
-                <a href="@($"/Receptura/{Uri.EscapeDataString(r.nazwa)}")">@r.nazwa</a>
-            </li>
+            <option value="@r.nazwa">@r.nazwa</option>
         }
-    </ul>
+    </select>
+
+    @if (wybranaReceptura != null)
+    {
+        <hr />
+        <h4>@wybranaReceptura.nazwa</h4>
+
+        <h5>Składniki:</h5>
+        <ul>
+            @foreach (var s in wybranaReceptura.skladniki)
+            {
+                <li>@s</li>
+            }
+        </ul>
+
+        <h5>Zalewa:</h5>
+        <ul>
+            @foreach (var z in wybranaReceptura.zalewa)
+            {
+                <li>@z</li>
+            }
+        </ul>
+
+        <h5>Przygotowanie:</h5>
+        <p>@wybranaReceptura.przygotowanie</p>
+    }
 }
 
 @code {
     private List<kuchnia.Service.Receptura> receptury;
+    private kuchnia.Service.Receptura wybranaReceptura;
 
     protected override async Task OnInitializedAsync()
     {
         try
         {
-            
             string url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/refs/heads/main/kuchnia/data/Receptury.json";
             receptury = await RecepturaService.PobierzRecepturyAsync(url);
         }
         catch (Exception ex)
         {
-            string status = $"Błąd podczas ładowania danych: {ex.Message}";
+            // możesz dodać obsługę błędu, np. logowanie lub wyświetlenie komunikatu
         }
     }
 
+    private void OnRecepturaChanged(ChangeEventArgs e)
+    {
+        var nazwa = e.Value?.ToString();
+        wybranaReceptura = receptury.FirstOrDefault(r => r.nazwa == nazwa);
+    }
 }
