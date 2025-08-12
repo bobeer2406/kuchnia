@@ -1,25 +1,328 @@
 [
   {
-  "Nazwa": "Chałka",
+    "Nazwa": "Chałka",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "605 g mąki",
+      "66 g cukru",
+      "50 g margaryny",
+      "20 g drożdży",
+      "1 płaska łyżeczka soli",
+      "1 jajko do posmarowania",
+      "ziarna sezamu lub kruszonka"
+    ],
+    "Sposob_przygotowania": [
+      "Mleko, margarynę, cukier i drożdże lekko podgrzać.",
+      "Wsypać mąkę i sól, dodać płynne składniki i wyrobić ciasto.",
+      "Odstawić do wyrośnięcia na 1 godzinę.",
+      "Podzielić ciasto na 9 wałków i uformować 3 chałki.",
+      "Posmarować jajkiem, posypać sezamem lub kruszonką.",
+      "Piec w temperaturze 180°C z termoobiegiem przez 30 minut."
+    ],
+    "Temperatura_pieczenia": "180°C",
+    "Czas_pieczenia": "30 minut"
+  },
+  {
+    "Nazwa": "Ciasto Cioci Ali",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "5 szklanek mąki krupczatki",
+      "2 szklanki cukru",
+      "20 dag orzechów",
+      "1 paczka suszonych bakalii",
+      "1 paczka rodzynek",
+      "5 dużych startych jabłek",
+      "1 łyżeczka proszku do pieczenia",
+      "1 łyżeczka sody",
+      "8 jaj",
+      "1 1/3 szklanki oleju",
+      "cukier waniliowy",
+      "olejek rumowy"
+    ],
+    "Sposob_przygotowania": [
+      "Cukier utrzeć z jajami całymi.",
+      "Dodać mąkę, szczyptę soli i olej (trochę mleka jeśli ciasto jest gęste).",
+      "Na koniec dodać jabłka i bakalie.",
+      "Piec 60 minut na dużej blasze.",
+      "Zrobić polewę czekoladową."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": "60 minut"
+  },
+  {
+    "Nazwa": "Ciasto kruche do szarlotki",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "400 g mąki",
+      "800 g cukru",
+      "250 g margaryny",
+      "200 g margaryny + 50 g smalcu",
+      "4-5 żółtek",
+      "1 1/2 łyżeczki proszku do pieczenia"
+    ],
+    "Sposob_przygotowania": [
+      "Blaszka 30x20 i większa.",
+      "Piec 175 stopni przez 60 minut.",
+      "Proporcje 3:2:1 (mąka : tłuszcz : cukier).",
+      "Ciasto kruche."
+    ],
+    "Temperatura_pieczenia": "175°C",
+    "Czas_pieczenia": "60 minut"
+  },
+  {
+    "Nazwa": "Ciasto marchewkowe",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "4 jaja",
+      "2 szklanki cukru",
+      "3/4 szklanki oleju",
+      "2 1/2 szklanki startej marchwi",
+      "3 szklanki mąki",
+      "2 łyżeczki proszku do pieczenia",
+      "2 płaskie łyżeczki sody",
+      "2 łyżki cynamonu",
+      "10 dag rodzynek",
+      "5 dag orzechów włoskich",
+      "2 łyżki kakao"
+    ],
+    "Sposob_przygotowania": [
+      "Jaja i cukier stopniowo miksować z pozostałymi składnikami.",
+      "Na koniec dodać marchew, rodzynki i orzechy.",
+      "Piec w temperaturze 160-180 stopni góra-dół przez 40-50 minut na dużej blasze.",
+      "Polewa czekoladowa."
+    ],
+    "Temperatura_pieczenia": "160-180°C",
+    "Czas_pieczenia": "40-50 minut"
+  },
+  {
+    "Nazwa": "Drożdżowe ciasto Dorotki",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "1 kg mąki",
+      "10 dag drożdży",
+      "2-3 łyżeczki cukru do drożdży",
+      "1 łyżka wody",
+      "1/2 mleka i 1/4 szklanki",
+      "12 dag masła",
+      "5 żółtek",
+      "3/4 szklanki cukru",
+      "cukier waniliowy",
+      "sól",
+      "rodzynki i żurawina"
+    ],
+    "Sposob_przygotowania": [
+      "Wymieszać drożdże, cukier i wodę.",
+      "Podgrzać mleko i masło.",
+      "Ubić żółtka z cukrem i cukrem waniliowym.",
+      "Do przesianej mąki wlać drożdże, następnie dodać ubite żółtka i mleko.",
+      "Wyrobić ciasto, dodać rodzynki i żurawinę.",
+      "Piec 45 minut w temperaturze 170-180 stopni (góra-dół) w 3 keksówkach."
+    ],
+    "Temperatura_pieczenia": "170-180°C",
+    "Czas_pieczenia": "45 minut"
+  },
+  {
+    "Nazwa": "Kartoflak",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "5-litrowe wiadro ziemniaków",
+      "60 dag boczku",
+      "40 dag kiełbasy",
+      "2 cebule",
+      "5 jaj",
+      "1 szklanka wody",
+      "sól, pieprz"
+    ],
+    "Sposob_przygotowania": [
+      "Do startych ziemniaków dodać pokrojony boczek, kiełbasę, cebulę oraz przyprawy.",
+      "Piec w piekarniku przez 1,5 godziny."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": "1,5 godziny"
+  },
+  {
+    "Nazwa": "Majonez",
+    "Kategoria": "Dodatki",
+    "Skladniki": [
+      "2 całe jaja",
+      "2 łyżki musztardy",
+      "1/2 litra oleju",
+      "2 łyżeczki cukru",
+      "1/2 łyżeczki soli"
+    ],
+    "Sposob_przygotowania": [
+      "Mieszać jaja i musztardę, podgrzewać w garnku z wodą.",
+      "Dodawać olej, cukier i sól, blendować do uzyskania konsystencji majonezu."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Naleśniki",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "2 szklanki mąki (320 g)",
+      "2 szklanki wody lub mleka",
+      "2 łyżki oleju",
+      "3 średnie jaja",
+      "1/2 łyżeczki soli i cukru"
+    ],
+    "Sposob_przygotowania": [
+      "Wymieszać składniki ciasta naleśnikowego."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+  "Nazwa": "Piernik z dżemem",
   "Kategoria": "Wypieki",
   "Skladniki": [
-    "605 g mąki",
-    "66 g cukru",
-    "50 g margaryny",
-    "20 g drożdży",
-    "1 płaska łyżeczka soli",
-    "1 jajko do posmarowania",
-    "ziarna sezamu lub kruszonka"
+    "2 szklanki mąki pszennej",
+    "3 jaja",
+    "1 szklanka cukru",
+    "3/4 szklanki oleju",
+    "1 łyżeczka sody",
+    "1 łyżeczka proszku do pieczenia",
+    "3 łyżki kakao",
+    "2 łyżki dżemu",
+    "2-3 łyżeczki przyprawy do piernika"
   ],
   "Sposob_przygotowania": [
-    "Mleko, margarynę, cukier i drożdże lekko podgrzać.",
-    "Wsypać mąkę i sól, dodać płynne składniki i wyrobić ciasto.",
-    "Odstawić do wyrośnięcia na 1 godzinę.",
-    "Podzielić ciasto na 9 wałków i uformować 3 chałki.",
-    "Posmarować jajkiem, posypać sezamem lub kruszonką.",
-    "Piec w temperaturze 180°C z termoobiegiem przez 30 minut."
+    "Jaja utrzeć z cukrem.",
+    "Dodać olej i dżem, zmiksować.",
+    "W osobnej misce wymieszać suche składniki (mąkę, sodę, proszek do pieczenia, kakao, przyprawę do piernika).",
+    "Stopniowo dodawać suche składniki do masy jajecznej, cały czas miksując.",
+    "Przełożyć ciasto do keksówki.",
+    "Piec 50 minut w temperaturze 180°C.",
+    "Na koniec można dodać polewę czekoladową."
   ],
   "Temperatura_pieczenia": "180°C",
-  "Czas_pieczenia": "30 minut"
+  "Czas_pieczenia": "50 minut"
+},
+{
+  "Nazwa": "Przepis na ciasto",
+  "Kategoria": "Wypieki",
+  "Skladniki": [
+    "1 kg mąki typ 00, przesiana",
+    "0,65 kg wody",
+    "2 gramy soli",
+    "1 gram drożdży",
+    "1 łyżka oliwy z oliwek"
+  ],
+  "Sposob_przygotowania": [
+    "Woda musi być bardzo zimna, im zimniejsza, tym lepsza.",
+    "Do wody dodać drożdże, sól i 1/4 mąki. Wyrabiać zawiesinę.",
+    "Dodać resztę mąki i wyrabiać przez około 10 minut.",
+    "Formować kulę, smarować oliwą, zawinąć szczelnie w folię.",
+    "Włożyć do lodówki na 10 minut.",
+    "Wyłożyć kulę na stolnicę, wtłaczać powietrze do ciasta.",
+    "Ponownie formować kulę, smarować oliwą, zawinąć w folię.",
+    "Włożyć do lodówki na kolejne 10 minut. Można powtórzyć czynność.",
+    "Ciasto włożyć do szczelnego pojemnika i odstawić na 4 godziny w temperaturze pokojowej.",
+    "Po 4 godzinach formować kule o wadze 250-270 g.",
+    "Umieścić kule w pojemniku wysmarowanym olejem, szczelnie zamknąć i trzymać w lodówce.",
+    "Następnego dnia wyjąć kule około 6 godzin przed formowaniem.",
+    "Piec w piekarniku najlepiej w temperaturze 500 stopni Celsjusza przez 2-3 minuty."
+  ],
+  "Temperatura_pieczenia": "500°C",
+  "Czas_pieczenia": "2-3 minuty"
+},
+{
+  "Nazwa": "Placki z piersi z kurczaka",
+  "Kategoria": "Dania mięsne",
+  "Skladniki": [
+    "1 podwójna pierś z kurczaka",
+    "3 jaja",
+    "3 łyżki mąki ziemniaczanej",
+    "3 łyżki majonezu",
+    "20 dag sera startego na jarzynówce"
+  ],
+  "Sposob_przygotowania": [
+    "Kurczaka pokroić w paski i doprawić.",
+    "Wszystko wymieszać (jaja, mąka, majonez, ser).",
+    "Formować placki jak racuchy.",
+    "Smażyć na patelni na złoty kolor."
+  ],
+  "Temperatura_pieczenia": "",
+  "Czas_pieczenia": ""
+},
+{
+  "Nazwa": "Ptysie",
+  "Kategoria": "Wypieki",
+  "Skladniki": [
+    "4 jaja",
+    "1 szklanka wody",
+    "1/2 kostki margaryny",
+    "1 1/4 szklanki mąki tortowej"
+  ],
+  "Sposob_przygotowania": [
+    "Wodę i margarynę zagotować.",
+    "Wsypać mąkę i wymieszać, odstawić do wystygnięcia.",
+    "Dodawać po 1 jajku, miksując.",
+    "Piec w temperaturze 200°C przez 15-20 minut.",
+    "Masa: 2 śmietany 30% + mascarpone, posłodzić i ubić."
+  ],
+  "Temperatura_pieczenia": "200°C",
+  "Czas_pieczenia": "15-20 minut"
+},
+{
+  "Nazwa": "Racuchy z jabłkami",
+  "Kategoria": "Wypieki",
+  "Skladniki": [
+    "2 dag drożdży",
+    "1 łyżka cukru",
+    "1 szklanka mleka",
+    "1 1/2 szklanki mąki",
+    "szczypta soli",
+    "3 jabłka duże",
+    "2 łyżki cukru",
+    "2 jaja"
+  ],
+  "Sposob_przygotowania": [
+    "Drożdże, cukier i mleko wymieszać i odstawić na 10-15 minut.",
+    "Ubić jaja z cukrem.",
+    "Połączyć składniki i odstawić na 30 minut.",
+    "Dodać pokrojone jabłka.",
+    "Smażyć na patelni na złoty kolor."
+  ],
+  "Temperatura_pieczenia": "",
+  "Czas_pieczenia": ""
+},
+{
+  "Nazwa": "Ruskie pierogi",
+  "Kategoria": "Dania obiadowe",
+  "Skladniki": [
+    "30 dag sera białego 30%",
+    "1/3 ugotowanych ziemniaków",
+    "2 duże cebule",
+    "margaryna do smażenia"
+  ],
+  "Sposob_przygotowania": [
+    "Cebule pokroić w kostkę i zarumienić na margarynie.",
+    "Wszystko połączyć, posolić i popieprzyć do smaku.",
+    "Nadziewać ciasto pierogowe farszem.",
+    "Gotować lub smażyć według uznania."
+  ],
+  "Temperatura_pieczenia": "",
+  "Czas_pieczenia": ""
+},
+{
+  "Nazwa": "Chleb z kuchennych inspiracji",
+  "Kategoria": "Pieczywo",
+  "Skladniki": [
+    "1 szklanka płatków żytnich",
+    "5 czubatych łyżek siemienia lnianego ziarnistego",
+    "4 szklanki lekko ciepłej wody",
+    "1 łyżka soli",
+    "1 łyżka brązowego cukru",
+    "500 g mąki żytniej typ 720",
+    "300 g mąki żytniej typ 2000"
+  ],
+  "Sposob_przygotowania": [
+    "Wymieszać wszystkie składniki i pozostawić do fermentacji.",
+    "Wyrabiać ciasto i piec według sprawdzonego przepisu na chleb żytni."
+  ],
+  "Temperatura_pieczenia": "",
+  "Czas_pieczenia": ""
 }
 ]
