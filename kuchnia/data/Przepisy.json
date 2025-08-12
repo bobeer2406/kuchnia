@@ -306,23 +306,171 @@
   "Temperatura_pieczenia": "",
   "Czas_pieczenia": ""
 },
-{
-  "Nazwa": "Chleb z kuchennych inspiracji",
-  "Kategoria": "Pieczywo",
-  "Skladniki": [
-    "1 szklanka płatków żytnich",
-    "5 czubatych łyżek siemienia lnianego ziarnistego",
-    "4 szklanki lekko ciepłej wody",
-    "1 łyżka soli",
-    "1 łyżka brązowego cukru",
-    "500 g mąki żytniej typ 720",
-    "300 g mąki żytniej typ 2000"
-  ],
-  "Sposob_przygotowania": [
-    "Wymieszać wszystkie składniki i pozostawić do fermentacji.",
-    "Wyrabiać ciasto i piec według sprawdzonego przepisu na chleb żytni."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-}
+  {
+    "Nazwa": "Chleb z kuchennych inspiracji",
+    "Kategoria": "Pieczywo",
+    "Skladniki": [
+      "1 szklanka płatków żytnich",
+      "5 czubatych łyżek siemienia lnianego ziarnistego",
+      "4 szklanki lekko ciepłej wody",
+      "1 łyżka soli",
+      "1 łyżka brązowego cukru",
+      "500 g mąki żytniej typ 720",
+      "300 g mąki żytniej typ 2000"
+    ],
+    "Sposob_przygotowania": [
+      "Wymieszać wszystkie składniki i pozostawić do fermentacji.",
+      "Wyrabiać ciasto i piec według sprawdzonego przepisu na chleb żytni."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Zupa z cukinii",
+    "Kategoria": "Zupy krem",
+    "Skladniki": [
+      "600 g cukinii",
+      "1 łyżka oliwy",
+      "2 łyżki masła",
+      "1 duża cebula",
+      "1 ząbek czosnku",
+      "800 ml bulionu drobiowego",
+      "¼ szklanki śmietanki 30%",
+      "bagietka (na grzanki)",
+      "50 g miękkiego masła (na grzanki)",
+      "1 ząbek czosnku, starty (na grzanki)",
+      "szczypta soli morskiej (na grzanki)"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku z grubym dnem roztopić masło z oliwą. Dodać posiekaną cebulę i zeszklić.",
+      "Dodać przeciśnięty przez praskę czosnek i chwilę razem podsmażać.",
+      "Dodać pokrojoną w kostkę cukinię i smażyć, mieszając, przez ok. 2 minuty.",
+      "Zalać bulionem i zagotować. Doprawić solą i pieprzem, gotować pod przykryciem około 25 minut.",
+      "Zmiksować zupę blenderem na krem, dodać śmietankę pod koniec.",
+      "Przygotować grzanki: bagietkę pokroić na kromki, posmarować masłem wymieszanym z tartym czosnkiem i solą, zapiekać w piekarniku (200 °C lub grill) do zrumienienia, ok. 4 minuty.",
+      "Podawać zupę z grzankami czosnkowymi lub pokruszoną fetą."
+    ],
+    "Temperatura_pieczenia": "ok. 200 °C (lub grill)",
+    "Czas_pieczenia": "ok. 4 minuty"
+  },
+  {
+    "Nazwa": "Zupa koperkowa",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "1 łyżka masła",
+      "1 cebula",
+      "1 marchewka",
+      "3 ziemniaki",
+      "szczypta kurkumy",
+      "szczypta papryki",
+      "1 litr rosołu lub bulionu drobiowego lub warzywnego",
+      "3 łyżki posiekanego koperku",
+      "4 łyżki śmietany do zup 18%"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku na maśle zeszklić pokrojoną w kosteczkę cebulę.",
+      "Marchewkę obrać, pokroić wzdłuż na 4 części, następnie posiekać na cienkie plasterki i dodać do garnka, podsmażać razem przez ok. 3 minuty.",
+      "Dodać obrane i pokrojone w kosteczkę ziemniaki, doprawić solą, pieprzem oraz kurkumą i papryką, smażyć mieszając przez ok. 3 minuty.",
+      "Wlać bulion/rosół i zagotować. Przykryć garnek i gotować przez ok. 15 minut, aż warzywa będą miękkie.",
+      "Na 2 minuty przed końcem gotowania dodać posiekany koperek.",
+      "Po zdjęciu z ognia zaprawić śmietaną do zup i podawać."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Zupa z zielonej soczewicy z makaronem",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "½ łyżki oliwy",
+      "400 g wędzonych żeberek lub wędzonych kości wieprzowych",
+      "2 średnie cebule",
+      "2 marchewki",
+      "1–2 łodygi selera naciowego",
+      "½ łyżeczki kminku",
+      "½ łyżeczki tymianku",
+      "½ łyżeczki majeranku",
+      "½ łyżeczki cząbru",
+      "1,5 litra bulionu",
+      "¼ szklanki zielonej soczewicy",
+      "⅓ szklanki drobnego makaronu",
+      "3–4 łyżki koncentratu pomidorowego",
+      "Do podania: posiekana natka pietruszki, chili"
+    ],
+    "Sposob_przygotowania": [
+      "W dużym garnku rozgrzać oliwę, dodać pokrojone żeberka lub kości i podgrzewać, mieszając.",
+      "Dodać pokrojoną w kostkę cebulę i zeszklić ją, mieszając co chwilę.",
+      "Dodać marchew i seler naciowy pokrojone w kostkę, wymieszać i podsmażać przez ok. 2–3 minuty.",
+      "Wsypać przyprawy (kminek, tymianek, majeranek, cząber) i wymieszać.",
+      "Zalać gorącym bulionem, doprawić solą i pieprzem, zagotować.",
+      "Dodać opłukaną zieloną soczewicę, przykryć i gotować przez ok. 25–30 minut, aż soczewica zmięknie.",
+      "Dodać makaron, wymieszać i gotować przez ok. 5 minut, aż makaron będzie miękki.",
+      "Dodać koncentrat pomidorowy, wymieszać i gotować przez ok. 2 minuty.",
+      "Podawać gorącą zupę posypaną natką pietruszki i chili; żeberka można obrać i dodać mięso z powrotem do zupy."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Zupa ogórkowa",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "1 łyżka masła",
+      "1 łyżka oliwy",
+      "1 mała cebula",
+      "1 marchewka",
+      "1,5 litra bulionu (np. drobiowy, warzywny, rosół)",
+      "300 g ziemniaków (ok. 3 sztuki)",
+      "4 średnie kiszone ogórki",
+      "½ szklanki soku z kiszonych ogórków (opcjonalnie)",
+      "150 g śmietany 18%",
+      "4 łyżki posiekanego szczypiorku"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę.",
+      "Dodać obraną i pokrojoną w kosteczkę marchewkę i smażyć, mieszając, przez ok. 3 minuty.",
+      "Wlać gorący bulion, zagotować, przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.",
+      "Dodać obrane i pokrojone w kosteczkę ziemniaki, gotować przez ok. 10 minut.",
+      "Dodać starte na tarce obrane ogórki oraz jeśli mamy, połowę szklanki soku z kiszonych ogórków, gotować przez ok. 10 minut.",
+      "Zdjąć z ognia, dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z kilkoma łyżkami wywaru), wymieszać i podawać."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Kapuśniak z kiszonej kapusty",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "500 g żeberek wieprzowych",
+      "100 g wędzonego surowego boczku",
+      "400 g kiszonej kapusty",
+      "600 g ziemniaków",
+      "2 litry zimnej wody",
+      "1 cebula",
+      "1 duża marchewka",
+      "1 pietruszka",
+      "kawałek selera (korzeń)",
+      "2 gałązki natki pietruszki",
+      "ok. 1½ łyżeczki soli",
+      "ok. ⅓ łyżeczki zmielonego czarnego pieprzu",
+      "1 listek laurowy",
+      "1 ziele angielskie",
+      "1 łyżeczka kminku",
+      "1 łyżka suszonego majeranku",
+      "1 łyżka masła klarowanego lub oleju",
+      "1 łyżka mąki"
+    ],
+    "Sposob_przygotowania": [
+      "Mięso opłukać, pokroić na kawałki. Włożyć do dużego garnka, zalać zimną wodą, dodać sól i zagotować. Zszumować, zmniejszyć ogień, przykryć i gotować przez ok. 40 minut.",
+      "Dodać marchewkę, pietruszkę i selera (obrane), dodać nieobrana cebulę, listek laurowy i ziele angielskie. Przykryć i gotować na umiarkowanym ogniu przez ok. 30 minut.",
+      "Ziemniaki obrać, pokroić w kostkę, dodać do zupy, zagotować, przykryć i gotować na małym ogniu przez ok. 10 minut.",
+      "Dodać przepłukaną i posiekaną kiszoną kapustę, kminek i majeranek, gotować przez ok. 20 minut.",
+      "Na patelni na maśle klarowanym lub oleju podsmażyć boczek pokrojony w paski, potem dodać mąkę i, energicznie mieszając, wlewać stopniowo wywar z zupy. Przełożyć zawartość patelni do zupy i zagotować.",
+      "Na koniec wyjąć cebulę, selera, pietruszkę i natkę z zupy. Doprawić świeżo zmielonym czarnym pieprzem, spróbować wywar i ewentualnie dodać sól."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  }
+
+
 ]
