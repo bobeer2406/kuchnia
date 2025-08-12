@@ -501,8 +501,8 @@
       "Śmietanę zahartować wywarem i dodać do zupy, gotować na małym ogniu około 2 minutki.",
       "Na koniec doprawić do smaku, dodać natkę pietruszki i/lub koperek, podawać."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Butter chicken – petarda na każdą okazję",
@@ -538,8 +538,8 @@
       "Wlać śmietanę, wymieszać i lekko podgrzać.",
       "Podawać z ryżem i świeżą kolendrą."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Pieczone nuggetsy z kurczaka w płatkach kukurydzianych",
@@ -621,8 +621,8 @@
       "Wlać bulion, przykryć i dusić na małym ogniu przez około 1 godzinę, aż mięso będzie miękkie.",
       "Ewentualnie doprawić do smaku solą i pieprzem."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Pulpeciki w sosie pieczarkowym",
@@ -655,8 +655,8 @@
       "Gotować bez przykrycia przez ok. 5 minut.",
       "Na koniec przesiać przez sitko 1/2 łyżeczki mąki ziemniaczanej, wymieszać i zagotować."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Pulpeciki w sosie koperkowo-pomidorowym",
@@ -687,8 +687,8 @@
       "W międzyczasie przygotować sos: w misce wymieszać przecier pomidorowy, śmietankę, koperek, mąkę pszenną, mąkę ziemniaczaną i zimną wodę.",
       "Wlać sos do garnka z pulpecikami, wymieszać i gotować na małym ogniu przez około 2 minuty, aż sos zgęstnieje."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Kotlety mielone",
@@ -713,8 +713,8 @@
       "Na patelni rozgrzać tłuszcz, smażyć kotlety na złoty kolor z obu stron.",
       "Podawać z ulubionymi dodatkami."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Papryka faszerowana mielonym mięsem i ryżem",
@@ -772,8 +772,8 @@
       "Przełożyć do garnka z fasolką i gotować przez ok. 5 minut na większym ogniu bez przykrycia.",
       "Dodać krojone pomidory z puszki i koncentrat pomidorowy. Doprawić majerankiem, solą i świeżo zmielonym pieprzem. Gotować przez około 15 minut."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Gulasz węgierski",
@@ -805,8 +805,8 @@
       "Zawartość garnka doprawić mieloną papryką i jeśli mamy czosnkiem niedźwiedzim. Wlać gorący bulion (lub rosół) w ilości, aby zakryło składniki. Dodać sos sojowy - jeśli chcemy go dodać, następnie ziele angielskie i listek laurowy, przykryć i dusić na małym ogniu ok. 1 i 1/2 godziny, do miękkości mięsa. Na koniec dodać koncentrat pomidorowy i podsmażone na złoto pokrojone pieczarki.",
       "Na patelni dobrze rozgrzać masło, dodać mąkę i chwilę podsmażyć mieszając. Przełożyć do garnka, dokładnie wymieszać i zagotować."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Pizzadilla z salami i papryką",
@@ -827,8 +827,8 @@
       "Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć placek tortilli i wyłożyć na niego połowę tartego sera, podsmażoną paprykę i plasterki salami. Skropić równomiernie sosem, posypać suszonym oregano i listkami bazylii. Posypać drugą połową tartego sera.",
       "Przykryć drugim plackiem tortilli i podsmażać ok. 2 minuty, aż tortilla na spodzie się zrumieni."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Dorsz w kremowym sosie z suszonymi pomidorami",
@@ -849,8 +849,8 @@
       "Dodaj pastę z suszonych pomidorów oraz śmietankę. Gotuj na małym ogniu przez 5–7 minut, aż sos zgęstnieje.",
       "Podawaj z ulubionymi dodatkami, np. ryżem, ziemniakami lub warzywami."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Krewetki w aromatycznym sosie z chrupiącymi warzywami",
@@ -881,8 +881,8 @@
       "Na patelnię z warzywami dodać ugotowany makaron, wlać sos z krewetkami, wymieszać.",
       "Przełożyć na talerz, posypać smażonymi warzywami."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Kotlety z ciecierzycy",
@@ -915,8 +915,8 @@
       "Na patelni rozgrzej odrobinę oleju i smaż kotleciki na średniej mocy palnika przez około 4-5 minut z każdej strony, aż będą złociste i chrupiące.",
       "Podawaj z ulubionymi dodatkami, np. sałatką, sosem jogurtowym lub hummusem."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Curry z ciecierzycy",
@@ -946,8 +946,8 @@
       "Dodać pomidory z puszki, ciecierzycę wraz z częścią zalewy, wodę oraz mleko kokosowe. Doprowadzić do wrzenia, zmniejszyć ogień i gotować przez około 10 minut, aż sos lekko zgęstnieje.",
       "Podawać posypane świeżą kolendrą, najlepiej z ugotowanym ryżem."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Spaghetti z domowym pesto",
@@ -970,7 +970,7 @@
       "Odcedzić makaron, wymieszać z przygotowanym pesto.",
       "Podawać posypane startym parmezanem."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   }
 ]
