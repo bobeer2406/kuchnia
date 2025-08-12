@@ -174,120 +174,120 @@
     "Czas_pieczenia": ""
   },
   {
-  "Nazwa": "Piernik z dżemem",
-  "Kategoria": "Wypieki",
-  "Skladniki": [
-    "2 szklanki mąki pszennej",
-    "3 jaja",
-    "1 szklanka cukru",
-    "3/4 szklanki oleju",
-    "1 łyżeczka sody",
-    "1 łyżeczka proszku do pieczenia",
-    "3 łyżki kakao",
-    "2 łyżki dżemu",
-    "2-3 łyżeczki przyprawy do piernika"
-  ],
-  "Sposob_przygotowania": [
-    "Jaja utrzeć z cukrem.",
-    "Dodać olej i dżem, zmiksować.",
-    "W osobnej misce wymieszać suche składniki (mąkę, sodę, proszek do pieczenia, kakao, przyprawę do piernika).",
-    "Stopniowo dodawać suche składniki do masy jajecznej, cały czas miksując.",
-    "Przełożyć ciasto do keksówki.",
-    "Piec 50 minut w temperaturze 180°C.",
-    "Na koniec można dodać polewę czekoladową."
-  ],
-  "Temperatura_pieczenia": "180°C",
-  "Czas_pieczenia": "50 minut"
-},
-{
-  "Nazwa": "Przepis na ciasto",
-  "Kategoria": "Wypieki",
-  "Skladniki": [
-    "1 kg mąki typ 00, przesiana",
-    "0,65 kg wody",
-    "2 gramy soli",
-    "1 gram drożdży",
-    "1 łyżka oliwy z oliwek"
-  ],
-  "Sposob_przygotowania": [
-    "Woda musi być bardzo zimna, im zimniejsza, tym lepsza.",
-    "Do wody dodać drożdże, sól i 1/4 mąki. Wyrabiać zawiesinę.",
-    "Dodać resztę mąki i wyrabiać przez około 10 minut.",
-    "Formować kulę, smarować oliwą, zawinąć szczelnie w folię.",
-    "Włożyć do lodówki na 10 minut.",
-    "Wyłożyć kulę na stolnicę, wtłaczać powietrze do ciasta.",
-    "Ponownie formować kulę, smarować oliwą, zawinąć w folię.",
-    "Włożyć do lodówki na kolejne 10 minut. Można powtórzyć czynność.",
-    "Ciasto włożyć do szczelnego pojemnika i odstawić na 4 godziny w temperaturze pokojowej.",
-    "Po 4 godzinach formować kule o wadze 250-270 g.",
-    "Umieścić kule w pojemniku wysmarowanym olejem, szczelnie zamknąć i trzymać w lodówce.",
-    "Następnego dnia wyjąć kule około 6 godzin przed formowaniem.",
-    "Piec w piekarniku najlepiej w temperaturze 500 stopni Celsjusza przez 2-3 minuty."
-  ],
-  "Temperatura_pieczenia": "500°C",
-  "Czas_pieczenia": "2-3 minuty"
-},
-{
-  "Nazwa": "Placki z piersi z kurczaka",
-  "Kategoria": "Dania mięsne",
-  "Skladniki": [
-    "1 podwójna pierś z kurczaka",
-    "3 jaja",
-    "3 łyżki mąki ziemniaczanej",
-    "3 łyżki majonezu",
-    "20 dag sera startego na jarzynówce"
-  ],
-  "Sposob_przygotowania": [
-    "Kurczaka pokroić w paski i doprawić.",
-    "Wszystko wymieszać (jaja, mąka, majonez, ser).",
-    "Formować placki jak racuchy.",
-    "Smażyć na patelni na złoty kolor."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Ptysie",
-  "Kategoria": "Wypieki",
-  "Skladniki": [
-    "4 jaja",
-    "1 szklanka wody",
-    "1/2 kostki margaryny",
-    "1 1/4 szklanki mąki tortowej"
-  ],
-  "Sposob_przygotowania": [
-    "Wodę i margarynę zagotować.",
-    "Wsypać mąkę i wymieszać, odstawić do wystygnięcia.",
-    "Dodawać po 1 jajku, miksując.",
-    "Piec w temperaturze 200°C przez 15-20 minut.",
-    "Masa: 2 śmietany 30% + mascarpone, posłodzić i ubić."
-  ],
-  "Temperatura_pieczenia": "200°C",
-  "Czas_pieczenia": "15-20 minut"
-},
-{
-  "Nazwa": "Racuchy z jabłkami",
-  "Kategoria": "Wypieki",
-  "Skladniki": [
-    "2 dag drożdży",
-    "1 łyżka cukru",
-    "1 szklanka mleka",
-    "1 1/2 szklanki mąki",
-    "szczypta soli",
-    "3 jabłka duże",
-    "2 łyżki cukru",
-    "2 jaja"
-  ],
-  "Sposob_przygotowania": [
-    "Drożdże, cukier i mleko wymieszać i odstawić na 10-15 minut.",
-    "Ubić jaja z cukrem.",
-    "Połączyć składniki i odstawić na 30 minut.",
-    "Dodać pokrojone jabłka.",
-    "Smażyć na patelni na złoty kolor."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
+    "Nazwa": "Piernik z dżemem",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "2 szklanki mąki pszennej",
+      "3 jaja",
+      "1 szklanka cukru",
+      "3/4 szklanki oleju",
+      "1 łyżeczka sody",
+      "1 łyżeczka proszku do pieczenia",
+      "3 łyżki kakao",
+      "2 łyżki dżemu",
+      "2-3 łyżeczki przyprawy do piernika"
+    ],
+    "Sposob_przygotowania": [
+      "Jaja utrzeć z cukrem.",
+      "Dodać olej i dżem, zmiksować.",
+      "W osobnej misce wymieszać suche składniki (mąkę, sodę, proszek do pieczenia, kakao, przyprawę do piernika).",
+      "Stopniowo dodawać suche składniki do masy jajecznej, cały czas miksując.",
+      "Przełożyć ciasto do keksówki.",
+      "Piec 50 minut w temperaturze 180°C.",
+      "Na koniec można dodać polewę czekoladową."
+    ],
+    "Temperatura_pieczenia": "180°C",
+    "Czas_pieczenia": "50 minut"
+  },
+  {
+    "Nazwa": "Przepis na ciasto",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "1 kg mąki typ 00, przesiana",
+      "0,65 kg wody",
+      "2 gramy soli",
+      "1 gram drożdży",
+      "1 łyżka oliwy z oliwek"
+    ],
+    "Sposob_przygotowania": [
+      "Woda musi być bardzo zimna, im zimniejsza, tym lepsza.",
+      "Do wody dodać drożdże, sól i 1/4 mąki. Wyrabiać zawiesinę.",
+      "Dodać resztę mąki i wyrabiać przez około 10 minut.",
+      "Formować kulę, smarować oliwą, zawinąć szczelnie w folię.",
+      "Włożyć do lodówki na 10 minut.",
+      "Wyłożyć kulę na stolnicę, wtłaczać powietrze do ciasta.",
+      "Ponownie formować kulę, smarować oliwą, zawinąć w folię.",
+      "Włożyć do lodówki na kolejne 10 minut. Można powtórzyć czynność.",
+      "Ciasto włożyć do szczelnego pojemnika i odstawić na 4 godziny w temperaturze pokojowej.",
+      "Po 4 godzinach formować kule o wadze 250-270 g.",
+      "Umieścić kule w pojemniku wysmarowanym olejem, szczelnie zamknąć i trzymać w lodówce.",
+      "Następnego dnia wyjąć kule około 6 godzin przed formowaniem.",
+      "Piec w piekarniku najlepiej w temperaturze 500 stopni Celsjusza przez 2-3 minuty."
+    ],
+    "Temperatura_pieczenia": "500°C",
+    "Czas_pieczenia": "2-3 minuty"
+  },
+  {
+    "Nazwa": "Placki z piersi z kurczaka",
+    "Kategoria": "Dania mięsne",
+    "Skladniki": [
+      "1 podwójna pierś z kurczaka",
+      "3 jaja",
+      "3 łyżki mąki ziemniaczanej",
+      "3 łyżki majonezu",
+      "20 dag sera startego na jarzynówce"
+    ],
+    "Sposob_przygotowania": [
+      "Kurczaka pokroić w paski i doprawić.",
+      "Wszystko wymieszać (jaja, mąka, majonez, ser).",
+      "Formować placki jak racuchy.",
+      "Smażyć na patelni na złoty kolor."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Ptysie",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "4 jaja",
+      "1 szklanka wody",
+      "1/2 kostki margaryny",
+      "1 1/4 szklanki mąki tortowej"
+    ],
+    "Sposob_przygotowania": [
+      "Wodę i margarynę zagotować.",
+      "Wsypać mąkę i wymieszać, odstawić do wystygnięcia.",
+      "Dodawać po 1 jajku, miksując.",
+      "Piec w temperaturze 200°C przez 15-20 minut.",
+      "Masa: 2 śmietany 30% + mascarpone, posłodzić i ubić."
+    ],
+    "Temperatura_pieczenia": "200°C",
+    "Czas_pieczenia": "15-20 minut"
+  },
+  {
+    "Nazwa": "Racuchy z jabłkami",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "2 dag drożdży",
+      "1 łyżka cukru",
+      "1 szklanka mleka",
+      "1 1/2 szklanki mąki",
+      "szczypta soli",
+      "3 jabłka duże",
+      "2 łyżki cukru",
+      "2 jaja"
+    ],
+    "Sposob_przygotowania": [
+      "Drożdże, cukier i mleko wymieszać i odstawić na 10-15 minut.",
+      "Ubić jaja z cukrem.",
+      "Połączyć składniki i odstawić na 30 minut.",
+      "Dodać pokrojone jabłka.",
+      "Smażyć na patelni na złoty kolor."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
   {
     "Nazwa": "Ruskie pierogi",
     "Kategoria": "Dania obiadowe",
@@ -305,36 +305,36 @@
     ],
     "Temperatura_pieczenia": "",
     "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Zupa z cukinii",
-  "Kategoria": "Zupy krem",
-  "Skladniki": [
-    "600 g cukinii",
-    "1 łyżka oliwy",
-    "2 łyżki masła",
-    "1 duża cebula",
-    "1 ząbek czosnku",
-    "800 ml bulionu drobiowego",
-    "¼ szklanki śmietanki 30%",
-    "bagietka (na grzanki)",
-    "50 g miękkiego masła (na grzanki)",
-    "1 ząbek czosnku, starty (na grzanki)",
-    "szczypta soli morskiej (na grzanki)"
-  ],
-  "Sposob_przygotowania": [
-    "W garnku z grubym dnem roztopić masło z oliwą. Dodać posiekaną cebulę i zeszklić.",
-    "Dodać przeciśnięty przez praskę czosnek i chwilę razem podsmażać.",
-    "Dodać pokrojoną w kostkę cukinię i smażyć, mieszając, przez ok. 2 minuty.",
-    "Zalać bulionem i zagotować. Doprawić solą i pieprzem, gotować pod przykryciem około 25 minut.",
-    "Zmiksować zupę blenderem na krem, dodać śmietankę pod koniec.",
-    "Przygotować grzanki: bagietkę pokroić na kromki, posmarować masłem wymieszanym z tartym czosnkiem i solą, zapiekać w piekarniku (200 °C lub grill) do zrumienienia, ok. 4 minuty.",
-    "Podawać zupę z grzankami czosnkowymi lub pokruszoną fetą."
-  ],
-  "Temperatura_pieczenia": "ok. 200 °C (lub grill)",
-  "Czas_pieczenia": "ok. 4 minuty"
-},
-{
+  },
+  {
+    "Nazwa": "Zupa z cukinii",
+    "Kategoria": "Zupy krem",
+    "Skladniki": [
+      "600 g cukinii",
+      "1 łyżka oliwy",
+      "2 łyżki masła",
+      "1 duża cebula",
+      "1 ząbek czosnku",
+      "800 ml bulionu drobiowego",
+      "¼ szklanki śmietanki 30%",
+      "bagietka (na grzanki)",
+      "50 g miękkiego masła (na grzanki)",
+      "1 ząbek czosnku, starty (na grzanki)",
+      "szczypta soli morskiej (na grzanki)"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku z grubym dnem roztopić masło z oliwą. Dodać posiekaną cebulę i zeszklić.",
+      "Dodać przeciśnięty przez praskę czosnek i chwilę razem podsmażać.",
+      "Dodać pokrojoną w kostkę cukinię i smażyć, mieszając, przez ok. 2 minuty.",
+      "Zalać bulionem i zagotować. Doprawić solą i pieprzem, gotować pod przykryciem około 25 minut.",
+      "Zmiksować zupę blenderem na krem, dodać śmietankę pod koniec.",
+      "Przygotować grzanki: bagietkę pokroić na kromki, posmarować masłem wymieszanym z tartym czosnkiem i solą, zapiekać w piekarniku (200 °C lub grill) do zrumienienia, ok. 4 minuty.",
+      "Podawać zupę z grzankami czosnkowymi lub pokruszoną fetą."
+    ],
+    "Temperatura_pieczenia": "ok. 200 °C (lub grill)",
+    "Czas_pieczenia": "ok. 4 minuty"
+  },
+  {
     "Nazwa": "Chleb z kuchennych inspiracji",
     "Kategoria": "Pieczywo",
     "Skladniki": [
@@ -352,601 +352,625 @@
     ],
     "Temperatura_pieczenia": "",
     "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Zupa koperkowa",
-  "Kategoria": "Zupy",
-  "Skladniki": [
-    "1 łyżka masła",
-    "1 cebula",
-    "1 marchewka",
-    "3 ziemniaki",
-    "szczypta kurkumy",
-    "szczypta papryki",
-    "1 litr rosołu lub bulionu drobiowego lub warzywnego",
-    "3 łyżki posiekanego koperku",
-    "4 łyżki śmietany do zup 18%"
-  ],
-  "Sposob_przygotowania": [
-    "W garnku na maśle zeszklić pokrojoną w kosteczkę cebulę.",
-    "Marchewkę obrać, pokroić wzdłuż na 4 części, następnie posiekać na cienkie plasterki i dodać do garnka, podsmażać razem przez ok. 3 minuty.",
-    "Dodać obrane i pokrojone w kosteczkę ziemniaki, doprawić solą, pieprzem oraz kurkumą i papryką, smażyć mieszając przez ok. 3 minuty.",
-    "Wlać bulion/rosół i zagotować. Przykryć garnek i gotować przez ok. 15 minut, aż warzywa będą miękkie.",
-    "Na 2 minuty przed końcem gotowania dodać posiekany koperek.",
-    "Po zdjęciu z ognia zaprawić śmietaną do zup i podawać."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Zupa z zielonej soczewicy z makaronem",
-  "Kategoria": "Zupy",
-  "Skladniki": [
-    "½ łyżki oliwy",
-    "400 g wędzonych żeberek lub wędzonych kości wieprzowych",
-    "2 średnie cebule",
-    "2 marchewki",
-    "1–2 łodygi selera naciowego",
-    "½ łyżeczki kminku",
-    "½ łyżeczki tymianku",
-    "½ łyżeczki majeranku",
-    "½ łyżeczki cząbru",
-    "1,5 litra bulionu",
-    "¼ szklanki zielonej soczewicy",
-    "⅓ szklanki drobnego makaronu",
-    "3–4 łyżki koncentratu pomidorowego",
-    "Do podania: posiekana natka pietruszki, chili"
-  ],
-  "Sposob_przygotowania": [
-    "W dużym garnku rozgrzać oliwę, dodać pokrojone żeberka lub kości i podgrzewać, mieszając.",
-    "Dodać pokrojoną w kostkę cebulę i zeszklić ją, mieszając co chwilę.",
-    "Dodać marchew i seler naciowy pokrojone w kostkę, wymieszać i podsmażać przez ok. 2–3 minuty.",
-    "Wsypać przyprawy (kminek, tymianek, majeranek, cząber) i wymieszać.",
-    "Zalać gorącym bulionem, doprawić solą i pieprzem, zagotować.",
-    "Dodać opłukaną zieloną soczewicę, przykryć i gotować przez ok. 25–30 minut, aż soczewica zmięknie.",
-    "Dodać makaron, wymieszać i gotować przez ok. 5 minut, aż makaron będzie miękki.",
-    "Dodać koncentrat pomidorowy, wymieszać i gotować przez ok. 2 minuty.",
-    "Podawać gorącą zupę posypaną natką pietruszki i chili; żeberka można obrać i dodać mięso z powrotem do zupy."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Zupa ogórkowa",
-  "Kategoria": "Zupy",
-  "Skladniki": [
-    "1 łyżka masła",
-    "1 łyżka oliwy",
-    "1 mała cebula",
-    "1 marchewka",
-    "1,5 litra bulionu (np. drobiowy, warzywny, rosół)",
-    "300 g ziemniaków (ok. 3 sztuki)",
-    "4 średnie kiszone ogórki",
-    "½ szklanki soku z kiszonych ogórków (opcjonalnie)",
-    "150 g śmietany 18%",
-    "4 łyżki posiekanego szczypiorku"
-  ],
-  "Sposob_przygotowania": [
-    "W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę.",
-    "Dodać obraną i pokrojoną w kosteczkę marchewkę i smażyć, mieszając, przez ok. 3 minuty.",
-    "Wlać gorący bulion, zagotować, przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.",
-    "Dodać obrane i pokrojone w kosteczkę ziemniaki, gotować przez ok. 10 minut.",
-    "Dodać starte na tarce obrane ogórki oraz jeśli mamy, połowę szklanki soku z kiszonych ogórków, gotować przez ok. 10 minut.",
-    "Zdjąć z ognia, dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z kilkoma łyżkami wywaru), wymieszać i podawać."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Kapuśniak z kiszonej kapusty",
-  "Kategoria": "Zupy",
-  "Skladniki": [
-    "500 g żeberek wieprzowych",
-    "100 g wędzonego surowego boczku",
-    "400 g kiszonej kapusty",
-    "600 g ziemniaków",
-    "2 litry zimnej wody",
-    "1 cebula",
-    "1 duża marchewka",
-    "1 pietruszka",
-    "kawałek selera (korzeń)",
-    "2 gałązki natki pietruszki",
-    "ok. 1½ łyżeczki soli",
-    "ok. ⅓ łyżeczki zmielonego czarnego pieprzu",
-    "1 listek laurowy",
-    "1 ziele angielskie",
-    "1 łyżeczka kminku",
-    "1 łyżka suszonego majeranku",
-    "1 łyżka masła klarowanego lub oleju",
-    "1 łyżka mąki"
-  ],
-  "Sposob_przygotowania": [
-    "Mięso opłukać, pokroić na kawałki. Włożyć do dużego garnka, zalać zimną wodą, dodać sól i zagotować. Zszumować, zmniejszyć ogień, przykryć i gotować przez ok. 40 minut.",
-    "Dodać marchewkę, pietruszkę i selera (obrane), dodać nieobrana cebulę, listek laurowy i ziele angielskie. Przykryć i gotować na umiarkowanym ogniu przez ok. 30 minut.",
-    "Ziemniaki obrać, pokroić w kostkę, dodać do zupy, zagotować, przykryć i gotować na małym ogniu przez ok. 10 minut.",
-    "Dodać przepłukaną i posiekaną kiszoną kapustę, kminek i majeranek, gotować przez ok. 20 minut.",
-    "Na patelni na maśle klarowanym lub oleju podsmażyć boczek pokrojony w paski, potem dodać mąkę i, energicznie mieszając, wlewać stopniowo wywar z zupy. Przełożyć zawartość patelni do zupy i zagotować.",
-    "Na koniec wyjąć cebulę, selera, pietruszkę i natkę z zupy. Doprawić świeżo zmielonym czarnym pieprzem, spróbować wywar i ewentualnie dodać sól."
-  ],
-  "Temperatura_pieczenia": "",
-  "Czas_pieczenia": ""
-},
-{
-  "Nazwa": "Zupa pieczarkowa",
-  "Kategoria": "Zupy",
-  "Skladniki": [
-    "2 ćwiartki / nogi z kurczaka (do 600 g)",
-    "2 średnie marchewki (do 250 g)",
-    "1 mały korzeń pietruszki (do 100 g)",
-    "kawałek selera korzeniowego (do 100 g)",
-    "kawałek białej części pora (ok. 10 cm, do 80 g)",
-    "1 litr wody",
-    "2 płaskie łyżeczki soli",
-    "1 płaska łyżeczka pieprzu",
-    "1 mały listek laurowy",
-    "2 ziarna ziela angielskiego",
-    "400 g pieczarek",
-    "500 g ziemniaków",
-    "1 łyżka masła klarowanego",
-    "3 łyżki śmietany 18 % (ok. 80 g)",
-    "natka pietruszki i/lub koperek"
-  ],
-  "Sposob_przygotowania": [
-    "W średniej wielkości garnku zagotować bulion: włożyć kurczaka, marchewkę, pietruszkę, seler, por, zalać wodą, dodać sól, pieprz, liść laurowy i ziele angielskie.",
-    "Gotować bulion przez około 1 godzinę na małym ogniu.",
-    "Wyjąć mięso, warzywa i przyprawy cedzakiem. Marchewkę pokroić w plasterki, mięso obrać, odłożyć, a wywar pozostawić.",
-    "Na patelni podsmażyć pieczarki (400 g) na maśle klarowanym przez kilkanaście minut, aż się zarumienią.",
-    "Ziemniaki (ok. 500 g) pokroić w kostkę i dodać je wraz z pieczarkami do wywaru, zagotować.",
-    "Dodać odłożone mięso i marchewkę, gotować kolejne 15–20 minut aż ziemniaki zmiękną.",
-    "Śmietanę zahartować wywarem i dodać do zupy, gotować na małym ogniu około 2 minutki.",
-    "Na koniec doprawić do smaku, dodać natkę pietruszki i/lub koperek, podawać."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Butter chicken – petarda na każdą okazję",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "600 g fileta z kurczaka",
-    "3 ząbki czosnku",
-    "czubata łyżka garam masala",
-    "200 g jogurtu naturalnego",
-    "łyżeczka soli",
-    "pół łyżeczki pieprzu",
-    "czubata łyżka klarowanego masła",
-    "duża cebula",
-    "500 g pomidorów bez skórki",
-    "100 g orzechów nerkowca",
-    "100 ml śmietany kremówki 30%",
-    "łyżka garam masala (dodatkowo)",
-    "łyżeczka kuminu",
-    "łyżeczka imbiru",
-    "łyżeczka curry",
-    "łyżeczka słodkiej papryki",
-    "pół łyżeczki cynamonu",
-    "sól",
-    "świeża kolendra"
-  ],
-  "Sposob_przygotowania": [
-    "Kurczaka pokroić w kostkę ok. 1,5×1,5 cm.",
-    "Czosnek przeciśnięty przez praskę wymieszać z jogurtem, garam masalą, solą i pieprzem. Dodać kurczaka i zamarynować minimum 5 godzin (najlepiej całą noc).",
-    "Na maśle klarowanym przesmażyć cebulę pokrojoną w kostkę. Dodać orzechy, wszystkie przyprawy (dodatkowe garam masala, kumin, imbir, curry, słodką paprykę, cynamon, sól). Smażyć, aż przyprawy pachną.",
-    "Dodać pomidory i dusić na małym ogniu przez 15 minut.",
-    "Zmiksować na gładką masę (blendować).",
-    "Na patelnię wrzucić kurczaka z marynatą, obsmażyć z każdej strony, przełożyć do sosu. Dusić razem przez około 10 minut.",
-    "Wlać śmietanę, wymieszać i lekko podgrzać.",
-    "Podawać z ryżem i świeżą kolendrą."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Pieczone nuggetsy z kurczaka w płatkach kukurydzianych",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "2 pojedyncze filety z piersi kurczaka",
-    "1 szklanka mleka",
-    "1/2 szklanki mąki pszennej",
-    "1 jajko",
-    "sól",
-    "pieprz",
-    "1 i 1/2 łyżeczki słodkiej papryki w proszku",
-    "1/2 łyżeczki ostrej papryki w proszku",
-    "2 i 1/2 szklanki płatków kukurydzianych",
-    "4 łyżki oliwy extra lub roztopionego masła"
-  ],
-  "Sposob_przygotowania": [
-    "Filety z kurczaka umyj, osusz i pokrój w paski o szerokości około 2 cm.",
-    "W misce wymieszaj mleko, mąkę, jajko, sól, pieprz oraz obie papryki, tworząc jednolitą masę.",
-    "Kawałki kurczaka zanurzaj w przygotowanej masie, a następnie obtaczaj w pokruszonych płatkach kukurydzianych.",
-    "Układaj obtoczone kawałki kurczaka na blasze wyłożonej papierem do pieczenia.",
-    "Skrop nuggetsy oliwą lub roztopionym masłem.",
-    "Piec w piekarniku nagrzanym do 200°C przez około 15 minut, aż staną się złociste i chrupiące."
-  ],
-  "Temperatura_pieczenia": "200°C",
-  "Czas_pieczenia": "15 minut"
-},
-{
-  "Nazwa": "Zapiekanka gyros",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "2 torebki ryżu (100 g każda) lub 600 g ugotowanego ryżu",
-    "1 podwójna pierś z kurczaka (ok. 600 g)",
-    "2 łyżki oleju do smażenia",
-    "3 łyżeczki przyprawy gyros w proszku",
-    "250 g sera mozzarella w kostce",
-    "150 g kukurydzy konserwowej (po odsączeniu)",
-    "1 czerwona papryka (ok. 190 g)",
-    "2 średnie ogórki kiszone (ok. 90 g)",
-    "2 średnie ogórki konserwowe (ok. 90 g)",
-    "100 g ketchupu",
-    "100 g majonezu",
-    "natka pietruszki do dekoracji"
-  ],
-  "Sposob_przygotowania": [
-    "Kurczaka pokrój w kostkę (ok. 2 cm). W misce wymieszaj mięso z przyprawą gyros. Odstaw na 30 minut.",
-    "Na patelni rozgrzej olej i smaż kurczaka przez około 10 minut, aż będzie dobrze wysmażony. Odstaw do przestudzenia.",
-    "Ugotuj ryż według instrukcji na opakowaniu. Po ugotowaniu odstaw do przestudzenia.",
-    "Warzywa pokrój: ogórki kiszone i konserwowe w grubsze plasterki, paprykę w kawałki na jeden kęs.",
-    "Ser mozzarella zetrzyj na tarce.",
-    "W naczyniu do zapiekania (ok. 20 x 29 cm) ułóż warstwami: ryż, sos z ketchupu i majonezu, kurczaka, warzywa, starty ser.",
-    "Powtórz warstwy, kończąc na serze.",
-    "Piec w piekarniku nagrzanym do 190°C przez około 30 minut, aż ser się roztopi i lekko zrumieni.",
-    "Przed podaniem posyp posiekaną natką pietruszki."
-  ],
-  "Temperatura_pieczenia": "190°C",
-  "Czas_pieczenia": "30 minut"
-},
-{
-  "Nazwa": "Schab w sosie węgierskim",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "1 kg schabu wieprzowego",
-    "1 łyżka oliwy",
-    "2 cebule",
-    "2 łyżki papryki słodkiej",
-    "1 łyżeczka papryki ostrej",
-    "2 łyżki koncentratu pomidorowego",
-    "1 szklanka bulionu",
-    "sól",
-    "pieprz"
-  ],
-  "Sposob_przygotowania": [
-    "Schab pokroić w plastry o grubości 1,5–2 cm.",
-    "W szerokim garnku rozgrzać łyżkę oliwy i zeszklić posiekaną cebulę.",
-    "Dodać plastry schabu i obsmażyć je z obu stron na złoty kolor.",
-    "Doprawić solą, pieprzem, papryką słodką i ostrą.",
-    "Dodać koncentrat pomidorowy i wymieszać.",
-    "Wlać bulion, przykryć i dusić na małym ogniu przez około 1 godzinę, aż mięso będzie miękkie.",
-    "Ewentualnie doprawić do smaku solą i pieprzem."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Pulpeciki w sosie pieczarkowym",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "250 g pieczarek",
-    "500 g mielonego mięsa (np. z indyka lub szynki wieprzowej)",
-    "1 cebula",
-    "2 ząbki czosnku",
-    "1 jajko",
-    "1 łyżka sosu sojowego (opcjonalnie)",
-    "3 łyżki bułki tartej",
-    "1 i 1/2 szklanki bulionu drobiowego",
-    "sól",
-    "pieprz",
-    "mąka pszenna",
-    "mąka ziemniaczana",
-    "oliwa"
-  ],
-  "Sposob_przygotowania": [
-    "Na 2 łyżkach oliwy zeszklić drobno posiekaną cebulę, pod koniec dodać starty czosnek i zrumienić.",
-    "Połowę zeszklonej cebuli dodać do mięsa (można ją zmielić razem z mięsem), resztę pozostawić na patelni.",
-    "Do cebuli na patelni dodać pokrojone na plasterki pieczarki. Doprawić solą, pieprzem i smażyć przez ok. 8 minut, co chwilę mieszając. Odstawić.",
-    "Do mięsa z cebulą dodać bułkę tartą, jajko, sos sojowy, sól i pieprz - dokładnie wyrobić.",
-    "Wilgotnymi dłońmi uformować 18 pulpecików.",
-    "Obtoczyć je delikatnie w mące pszennej i obsmażyć na oliwie (na patelni lub w garnku).",
-    "Po podsmażeniu wlać do pulpecików gorący bulion i zagotować.",
-    "Przykryć i gotować 20 minut, w międzyczasie 2 - 3 razy przewrócić pulpeciki.",
-    "Dodać podsmażone pieczarki, wymieszać i zagotować.",
-    "Gotować bez przykrycia przez ok. 5 minut.",
-    "Na koniec przesiać przez sitko 1/2 łyżeczki mąki ziemniaczanej, wymieszać i zagotować."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Pulpeciki w sosie koperkowo-pomidorowym",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "500 g mielonego mięsa (np. z indyka lub szynki wieprzowej)",
-    "1 cebula",
-    "1 jajko",
-    "2 łyżki bułki tartej",
-    "sól",
-    "pieprz",
-    "mąka pszenna do obtoczenia",
-    "olej do smażenia",
-    "1 litr bulionu warzywnego",
-    "3 ½ łyżki przecieru pomidorowego",
-    "50 ml śmietanki kremówki",
-    "2 łyżki posiekanego koperku",
-    "1 łyżka mąki pszennej",
-    "1 łyżeczka mąki ziemniaczanej",
-    "4 łyżki zimnej wody"
-  ],
-  "Sposob_przygotowania": [
-    "W misce wymieszać mielone mięso, startą cebulę, jajko, bułkę tartą, sól i pieprz.",
-    "Wilgotnymi dłońmi uformować pulpeciki i obtoczyć je w mące pszennej.",
-    "Na patelni rozgrzać olej i obsmażyć pulpeciki na złoty kolor.",
-    "W dużym garnku zagotować bulion warzywny.",
-    "Wkładać do niego pulpeciki, przykryć i gotować przez około 20 minut, przewracając je 2–3 razy.",
-    "W międzyczasie przygotować sos: w misce wymieszać przecier pomidorowy, śmietankę, koperek, mąkę pszenną, mąkę ziemniaczaną i zimną wodę.",
-    "Wlać sos do garnka z pulpecikami, wymieszać i gotować na małym ogniu przez około 2 minuty, aż sos zgęstnieje."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Kotlety mielone",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "1 mała bułka (najlepiej czerstwa, np. kajzerka)",
-    "mleko lub woda do namoczenia bułki",
-    "500 g mięsa mielonego (np. szynka wieprzowa, udziec cielęcy lub z indyka)",
-    "1 średnia cebula, starta na tarce",
-    "1 jajko",
-    "1 łyżeczka soli",
-    "1/2 łyżeczki czarnego pieprzu zmielonego",
-    "około 1/4 szklanki zimnej wody",
-    "bułka tarta do obtoczenia",
-    "do podsmażenia: smalec lub masło klarowane lub olej"
-  ],
-  "Sposob_przygotowania": [
-    "Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 10–15 minut.",
-    "Do większej miski włożyć zmielone mięso, startą cebulę, jajko, sól i pieprz oraz odciśniętą bułkę, wszystko dobrze wymieszać.",
-    "Dodać około 1/4 szklanki zimnej wody, kontynuować wyrabianie masy, aż będzie gładka i jednolita.",
-    "Formować kotlety, obtaczać je w bułce tartej.",
-    "Na patelni rozgrzać tłuszcz, smażyć kotlety na złoty kolor z obu stron.",
-    "Podawać z ulubionymi dodatkami."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Papryka faszerowana mielonym mięsem i ryżem",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "4 papryki (czerwone, żółte lub zielone)",
-    "300 g mielonego mięsa (np. wieprzowego, wołowego lub drobiowego)",
-    "1 cebula",
-    "1 ząbek czosnku",
-    "1 szklanka ugotowanego ryżu",
-    "1 jajko",
-    "2 łyżki koncentratu pomidorowego",
-    "1 łyżeczka suszonego oregano",
-    "1/2 łyżeczki soli",
-    "1/4 łyżeczki czarnego pieprzu",
-    "1/2 szklanki tartego sera żółtego (np. mozzarella, cheddar)",
-    "2 łyżki oliwy z oliwek"
-  ],
-  "Sposob_przygotowania": [
-    "Papryki umyć, odciąć górną część i usunąć nasiona.",
-    "Cebulę i czosnek drobno posiekać.",
-    "Na patelni rozgrzać oliwę, dodać cebulę i czosnek, smażyć do zeszklenia.",
-    "Dodać mielone mięso, smażyć, aż się zarumieni.",
-    "Dodać koncentrat pomidorowy, oregano, sól i pieprz, wymieszać.",
-    "Zdjąć z ognia, dodać ugotowany ryż i jajko, wymieszać.",
-    "Napełnić papryki przygotowanym farszem.",
-    "Ułożyć papryki w naczyniu żaroodpornym, posypać tartym serem.",
-    "Piec w piekarniku nagrzanym do 180°C przez około 30 minut, aż papryki będą miękkie, a ser się roztopi."
-  ],
-  "Temperatura_pieczenia": "180°C",
-  "Czas_pieczenia": "30 minut"
-},
-{
-  "Nazwa": "Fasolka po bretońsku",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "400 g suchej fasolki 'Piękny Jaś' lub 2 puszki fasolki",
-    "250 g boczku (parzonego lub wędzonego)",
-    "250 g kiełbasy",
-    "1 duża cebula",
-    "2 ząbki czosnku",
-    "1 puszka krojonych pomidorów",
-    "2 łyżki koncentratu pomidorowego",
-    "3 ziela angielskie",
-    "1 liść laurowy",
-    "2 płaskie łyżki suszonego majeranku",
-    "sól",
-    "świeżo zmielony pieprz"
-  ],
-  "Sposob_przygotowania": [
-    "Suchą fasolę wsypać do garnka, zalać zimną wodą (ok. 10 cm ponad poziom fasolki) i odstawić na noc do namoczenia.",
-    "Następnego dnia odcedzić, wlać 1 litr świeżej wody, dodać 1 łyżeczkę soli, ziele angielskie i liść laurowy i gotować pod przykryciem przez około 1 i 1/2 godziny do miękkości.",
-    "Odciąć skórę z boczku, resztę pokroić w kosteczkę. Włożyć na patelnię i co chwilę mieszając dokładnie obsmażyć, przełożyć do garnka z fasolką.",
-    "Na wytopionym tłuszczu dokładnie obsmażyć pokrojoną w kosteczkę kiełbasę, dodać pokrojoną w kosteczkę cebulę i smażyć jeszcze przez ok. 5 minut. Pod koniec dodać starty czosnek.",
-    "Przełożyć do garnka z fasolką i gotować przez ok. 5 minut na większym ogniu bez przykrycia.",
-    "Dodać krojone pomidory z puszki i koncentrat pomidorowy. Doprawić majerankiem, solą i świeżo zmielonym pieprzem. Gotować przez około 15 minut."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Gulasz węgierski",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "1 kg łopatki wieprzowej lub szynki",
-    "100 g parzonego lub gotowanego boczku",
-    "1 duża cebula",
-    "2 średnie marchewki",
-    "1 papryka",
-    "2 łyżki oliwy",
-    "2 łyżki smalcu (lub oliwy)",
-    "4 łyżeczki mielonej słodkiej papryki",
-    "1 łyżeczka mielonej ostrej papryki",
-    "3 łyżeczki suszonego czosnku niedźwiedziego (opcjonalnie)",
-    "ok. 1 l gorącego bulionu lub rosołu",
-    "2 łyżki sosu sojowego (opcjonalnie)",
-    "2 listki laurowe",
-    "3 ziela angielskie",
-    "2 łyżki koncentratu pomidorowego",
-    "200 g pieczarek",
-    "2 łyżki masła",
-    "2 łyżki mąki"
-  ],
-  "Sposob_przygotowania": [
-    "Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.",
-    "W szerokim garnku rozgrzać łyżkę oliwy, dodać boczek i cebulę, zeszklić ją. Dodać drugą łyżkę oliwy, włożyć marchewkę i paprykę i mieszając podsmażać wszystko przez kilka minut.",
-    "W międzyczasie na oddzielnej patelni rozgrzać smalec (lub oliwę) i obsmażyć kawałki mięsa. Doprawić je solą i pieprzem i przenieść do garnka z warzywami. Jeśli mamy, można całość podlać ok. 1/3 szklanki wina (czerwonego lub białego) i na większym ogniu chwilę odparować.",
-    "Zawartość garnka doprawić mieloną papryką i jeśli mamy czosnkiem niedźwiedzim. Wlać gorący bulion (lub rosół) w ilości, aby zakryło składniki. Dodać sos sojowy - jeśli chcemy go dodać, następnie ziele angielskie i listek laurowy, przykryć i dusić na małym ogniu ok. 1 i 1/2 godziny, do miękkości mięsa. Na koniec dodać koncentrat pomidorowy i podsmażone na złoto pokrojone pieczarki.",
-    "Na patelni dobrze rozgrzać masło, dodać mąkę i chwilę podsmażyć mieszając. Przełożyć do garnka, dokładnie wymieszać i zagotować."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Pizzadilla z salami i papryką",
-  "Kategoria": "Przekąski",
-  "Skladniki": [
-    "1 łyżeczka oliwy",
-    "1 nieduża papryka (lub po kawałku różnokolorowych)",
-    "180 g tartej mozzarelli (twardszej i żółtej, nie białej z zalewy)",
-    "40 g salami w plasterkach",
-    "4 łyżki sosu do pizzy",
-    "1/2 łyżeczki suszonego oregano",
-    "świeża bazylia",
-    "2 łyżeczki masła",
-    "2 duże tortille (śr. 25 cm)"
-  ],
-  "Sposob_przygotowania": [
-    "Paprykę pokroić w drobną kostkę, doprawić solą i podsmażyć chwilę na łyżeczce oliwy, odłożyć na talerz.",
-    "Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć placek tortilli i wyłożyć na niego połowę tartego sera, podsmażoną paprykę i plasterki salami. Skropić równomiernie sosem, posypać suszonym oregano i listkami bazylii. Posypać drugą połową tartego sera.",
-    "Przykryć drugim plackiem tortilli i podsmażać ok. 2 minuty, aż tortilla na spodzie się zrumieni."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Dorsz w kremowym sosie z suszonymi pomidorami",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "400 g filetu z dorsza (np. polędwiczki)",
-    "1/2 łyżki masła",
-    "1/2 łyżki oliwy",
-    "1/2 łyżeczki słodkiej papryki",
-    "1/2 łyżeczki tymianku",
-    "2 łyżki pasty z suszonych pomidorów",
-    "125 ml śmietanki 30% lub 18%"
-  ],
-  "Sposob_przygotowania": [
-    "Filety z dorsza umyj, osusz papierowym ręcznikiem i pokrój na porcje.",
-    "Na patelni rozgrzej masło z oliwą. Dodaj filety z dorsza i smaż przez 2–3 minuty z każdej strony, aż staną się złociste.",
-    "Posyp rybę słodką papryką i tymiankiem.",
-    "Dodaj pastę z suszonych pomidorów oraz śmietankę. Gotuj na małym ogniu przez 5–7 minut, aż sos zgęstnieje.",
-    "Podawaj z ulubionymi dodatkami, np. ryżem, ziemniakami lub warzywami."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Krewetki w aromatycznym sosie z chrupiącymi warzywami",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "1 mała cukinia",
-    "1 mała cebulka szalotka",
-    "1 ząbek czosnku",
-    "2 łyżeczki oleju",
-    "200 g krewetek",
-    "100 ml mleka kokosowego",
-    "100 ml bulionu warzywnego",
-    "100 g makaronu ryżowego",
-    "0,5 łyżeczki pieprzu cytrynowego",
-    "0,5 łyżeczki imbiru",
-    "sól do smaku",
-    "1 łyżka drobno posiekanej natki pietruszki"
-  ],
-  "Sposob_przygotowania": [
-    "Krewetki oczyścić, usunąć ogonki.",
-    "Natrzeć krewetki pieprzem cytrynowym i imbirem, odstawić na 5–10 minut.",
-    "Na patelni rozgrzać 1 łyżeczkę oleju, dodać czosnek i smażyć przez chwilę.",
-    "Dodać krewetki i smażyć, aż zmienią kolor na różowy.",
-    "Dodać posiekaną natkę pietruszki, posolić.",
-    "Dodać mleko kokosowe i bulion warzywny, zagotować.",
-    "Na pozostałym oleju smażyć pokrojoną w kostkę cebulę i cukinię, aż staną się złociste.",
-    "Ugotować makaron ryżowy zgodnie z instrukcją na opakowaniu.",
-    "Na patelnię z warzywami dodać ugotowany makaron, wlać sos z krewetkami, wymieszać.",
-    "Przełożyć na talerz, posypać smażonymi warzywami."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Kotlety z ciecierzycy",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "200 g suchej ciecierzycy (niecała szklanka)",
-    "2 średnie marchewki (około 200 g)",
-    "2 średnie cebule (około 170 g)",
-    "3 ząbki czosnku (około 15 g)",
-    "2 łyżki oleju do smażenia",
-    "2 łyżki oleju kokosowego",
-    "garść natki pietruszki",
-    "2 płaskie łyżki bułki tartej bezglutenowej",
-    "przyprawy: płaska łyżeczka soli, pół płaskiej łyżeczki pieprzu, 1/3 łyżeczki słodkiej papryki, spora szczypta kuminu",
-    "odrobina oleju do smażenia"
-  ],
-  "Sposob_przygotowania": [
-    "Dzień wcześniej zalej ciecierzycę zimną wodą (około 500 ml) i mocz przez maksymalnie 12 godzin.",
-    "Po moczeniu przepłucz ciecierzycę na sitku i umieść w garnku.",
-    "Zalej ciecierzycę 500 ml wody, zagotuj, a następnie gotuj na małym ogniu przez około 90 minut, aż będzie miękka.",
-    "Odcedź ugotowaną ciecierzycę i odstaw do przestudzenia.",
-    "Zmiel ciecierzycę w maszynce do mielenia mięsa z drobnymi oczkami.",
-    "W międzyczasie obierz i posiekaj cebule, zetrzyj marchewki na dużych oczkach tarki, a czosnek drobno posiekaj lub przeciśnij przez praskę.",
-    "Na patelni rozgrzej 2 łyżki oleju do smażenia oraz 2 łyżki oleju kokosowego.",
-    "Dodaj cebulę, marchew i czosnek, smaż na średniej mocy palnika przez około 15 minut, aż warzywa zmiękną.",
-    "Dodaj do warzyw drobno posiekaną natkę pietruszki i smaż przez kolejne 2 minuty.",
-    "W dużej misce połącz zmieloną ciecierzycę z podsmażonymi warzywami.",
-    "Dodaj bułkę tartą, przyprawy i dokładnie wymieszaj.",
-    "Formuj z masy kotleciki wielkości sporego orzecha włoskiego.",
-    "Na patelni rozgrzej odrobinę oleju i smaż kotleciki na średniej mocy palnika przez około 4-5 minut z każdej strony, aż będą złociste i chrupiące.",
-    "Podawaj z ulubionymi dodatkami, np. sałatką, sosem jogurtowym lub hummusem."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Curry z ciecierzycy",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "1 łyżka oleju",
-    "1 cebula",
-    "1 łyżeczka świeżo startego imbiru",
-    "2 ząbki czosnku",
-    "1/2 łyżeczki mielonego kminu rzymskiego",
-    "1/2 łyżeczki mielonej kurkumy",
-    "1/2 łyżeczki mielonej kolendry",
-    "1/2 łyżeczki mielonego cynamonu",
-    "1/2 łyżeczki słodkiej papryki",
-    "1/2 łyżeczki ostrej papryki",
-    "1/2 łyżeczki nasion kardamonu",
-    "1 puszka (400 g) pomidorów krojonych",
-    "1 puszka (400 g) ciecierzycy",
-    "1/2 szklanki wody",
-    "1/2 szklanki mleka kokosowego",
-    "sól do smaku",
-    "świeża kolendra do podania"
-  ],
-  "Sposob_przygotowania": [
-    "W szerokim garnku na 1 łyżce oleju zeszklić obraną i pokrojoną w kosteczkę cebulę. Doprawić ją solą, dodać drobno startego imbiru oraz czosnek i smażyć przez około 2 minuty, aż zaczną się lekko rumienić.",
-    "Dodać przyprawy: wyłuskane ziarenka z łusek kardamonu, mielony kumin, kurkumę, cynamon, kolendrę, słodką i ostrą paprykę. Chwilę razem podsmażyć. Skrapiać wodą z ciecierzycy, gdyby składniki chciały przywierać do dna garnka. Smażyć wszystko jeszcze przez minutę.",
-    "Dodać pomidory z puszki, ciecierzycę wraz z częścią zalewy, wodę oraz mleko kokosowe. Doprowadzić do wrzenia, zmniejszyć ogień i gotować przez około 10 minut, aż sos lekko zgęstnieje.",
-    "Podawać posypane świeżą kolendrą, najlepiej z ugotowanym ryżem."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
-}
+  },
+  {
+    "Nazwa": "Zupa koperkowa",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "1 łyżka masła",
+      "1 cebula",
+      "1 marchewka",
+      "3 ziemniaki",
+      "szczypta kurkumy",
+      "szczypta papryki",
+      "1 litr rosołu lub bulionu drobiowego lub warzywnego",
+      "3 łyżki posiekanego koperku",
+      "4 łyżki śmietany do zup 18%"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku na maśle zeszklić pokrojoną w kosteczkę cebulę.",
+      "Marchewkę obrać, pokroić wzdłuż na 4 części, następnie posiekać na cienkie plasterki i dodać do garnka, podsmażać razem przez ok. 3 minuty.",
+      "Dodać obrane i pokrojone w kosteczkę ziemniaki, doprawić solą, pieprzem oraz kurkumą i papryką, smażyć mieszając przez ok. 3 minuty.",
+      "Wlać bulion/rosół i zagotować. Przykryć garnek i gotować przez ok. 15 minut, aż warzywa będą miękkie.",
+      "Na 2 minuty przed końcem gotowania dodać posiekany koperek.",
+      "Po zdjęciu z ognia zaprawić śmietaną do zup i podawać."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Zupa z zielonej soczewicy z makaronem",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "½ łyżki oliwy",
+      "400 g wędzonych żeberek lub wędzonych kości wieprzowych",
+      "2 średnie cebule",
+      "2 marchewki",
+      "1–2 łodygi selera naciowego",
+      "½ łyżeczki kminku",
+      "½ łyżeczki tymianku",
+      "½ łyżeczki majeranku",
+      "½ łyżeczki cząbru",
+      "1,5 litra bulionu",
+      "¼ szklanki zielonej soczewicy",
+      "⅓ szklanki drobnego makaronu",
+      "3–4 łyżki koncentratu pomidorowego",
+      "Do podania: posiekana natka pietruszki, chili"
+    ],
+    "Sposob_przygotowania": [
+      "W dużym garnku rozgrzać oliwę, dodać pokrojone żeberka lub kości i podgrzewać, mieszając.",
+      "Dodać pokrojoną w kostkę cebulę i zeszklić ją, mieszając co chwilę.",
+      "Dodać marchew i seler naciowy pokrojone w kostkę, wymieszać i podsmażać przez ok. 2–3 minuty.",
+      "Wsypać przyprawy (kminek, tymianek, majeranek, cząber) i wymieszać.",
+      "Zalać gorącym bulionem, doprawić solą i pieprzem, zagotować.",
+      "Dodać opłukaną zieloną soczewicę, przykryć i gotować przez ok. 25–30 minut, aż soczewica zmięknie.",
+      "Dodać makaron, wymieszać i gotować przez ok. 5 minut, aż makaron będzie miękki.",
+      "Dodać koncentrat pomidorowy, wymieszać i gotować przez ok. 2 minuty.",
+      "Podawać gorącą zupę posypaną natką pietruszki i chili; żeberka można obrać i dodać mięso z powrotem do zupy."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Zupa ogórkowa",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "1 łyżka masła",
+      "1 łyżka oliwy",
+      "1 mała cebula",
+      "1 marchewka",
+      "1,5 litra bulionu (np. drobiowy, warzywny, rosół)",
+      "300 g ziemniaków (ok. 3 sztuki)",
+      "4 średnie kiszone ogórki",
+      "½ szklanki soku z kiszonych ogórków (opcjonalnie)",
+      "150 g śmietany 18%",
+      "4 łyżki posiekanego szczypiorku"
+    ],
+    "Sposob_przygotowania": [
+      "W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę.",
+      "Dodać obraną i pokrojoną w kosteczkę marchewkę i smażyć, mieszając, przez ok. 3 minuty.",
+      "Wlać gorący bulion, zagotować, przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.",
+      "Dodać obrane i pokrojone w kosteczkę ziemniaki, gotować przez ok. 10 minut.",
+      "Dodać starte na tarce obrane ogórki oraz jeśli mamy, połowę szklanki soku z kiszonych ogórków, gotować przez ok. 10 minut.",
+      "Zdjąć z ognia, dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z kilkoma łyżkami wywaru), wymieszać i podawać."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Kapuśniak z kiszonej kapusty",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "500 g żeberek wieprzowych",
+      "100 g wędzonego surowego boczku",
+      "400 g kiszonej kapusty",
+      "600 g ziemniaków",
+      "2 litry zimnej wody",
+      "1 cebula",
+      "1 duża marchewka",
+      "1 pietruszka",
+      "kawałek selera (korzeń)",
+      "2 gałązki natki pietruszki",
+      "ok. 1½ łyżeczki soli",
+      "ok. ⅓ łyżeczki zmielonego czarnego pieprzu",
+      "1 listek laurowy",
+      "1 ziele angielskie",
+      "1 łyżeczka kminku",
+      "1 łyżka suszonego majeranku",
+      "1 łyżka masła klarowanego lub oleju",
+      "1 łyżka mąki"
+    ],
+    "Sposob_przygotowania": [
+      "Mięso opłukać, pokroić na kawałki. Włożyć do dużego garnka, zalać zimną wodą, dodać sól i zagotować. Zszumować, zmniejszyć ogień, przykryć i gotować przez ok. 40 minut.",
+      "Dodać marchewkę, pietruszkę i selera (obrane), dodać nieobrana cebulę, listek laurowy i ziele angielskie. Przykryć i gotować na umiarkowanym ogniu przez ok. 30 minut.",
+      "Ziemniaki obrać, pokroić w kostkę, dodać do zupy, zagotować, przykryć i gotować na małym ogniu przez ok. 10 minut.",
+      "Dodać przepłukaną i posiekaną kiszoną kapustę, kminek i majeranek, gotować przez ok. 20 minut.",
+      "Na patelni na maśle klarowanym lub oleju podsmażyć boczek pokrojony w paski, potem dodać mąkę i, energicznie mieszając, wlewać stopniowo wywar z zupy. Przełożyć zawartość patelni do zupy i zagotować.",
+      "Na koniec wyjąć cebulę, selera, pietruszkę i natkę z zupy. Doprawić świeżo zmielonym czarnym pieprzem, spróbować wywar i ewentualnie dodać sól."
+    ],
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Zupa pieczarkowa",
+    "Kategoria": "Zupy",
+    "Skladniki": [
+      "2 ćwiartki / nogi z kurczaka (do 600 g)",
+      "2 średnie marchewki (do 250 g)",
+      "1 mały korzeń pietruszki (do 100 g)",
+      "kawałek selera korzeniowego (do 100 g)",
+      "kawałek białej części pora (ok. 10 cm, do 80 g)",
+      "1 litr wody",
+      "2 płaskie łyżeczki soli",
+      "1 płaska łyżeczka pieprzu",
+      "1 mały listek laurowy",
+      "2 ziarna ziela angielskiego",
+      "400 g pieczarek",
+      "500 g ziemniaków",
+      "1 łyżka masła klarowanego",
+      "3 łyżki śmietany 18 % (ok. 80 g)",
+      "natka pietruszki i/lub koperek"
+    ],
+    "Sposob_przygotowania": [
+      "W średniej wielkości garnku zagotować bulion: włożyć kurczaka, marchewkę, pietruszkę, seler, por, zalać wodą, dodać sól, pieprz, liść laurowy i ziele angielskie.",
+      "Gotować bulion przez około 1 godzinę na małym ogniu.",
+      "Wyjąć mięso, warzywa i przyprawy cedzakiem. Marchewkę pokroić w plasterki, mięso obrać, odłożyć, a wywar pozostawić.",
+      "Na patelni podsmażyć pieczarki (400 g) na maśle klarowanym przez kilkanaście minut, aż się zarumienią.",
+      "Ziemniaki (ok. 500 g) pokroić w kostkę i dodać je wraz z pieczarkami do wywaru, zagotować.",
+      "Dodać odłożone mięso i marchewkę, gotować kolejne 15–20 minut aż ziemniaki zmiękną.",
+      "Śmietanę zahartować wywarem i dodać do zupy, gotować na małym ogniu około 2 minutki.",
+      "Na koniec doprawić do smaku, dodać natkę pietruszki i/lub koperek, podawać."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Butter chicken – petarda na każdą okazję",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "600 g fileta z kurczaka",
+      "3 ząbki czosnku",
+      "czubata łyżka garam masala",
+      "200 g jogurtu naturalnego",
+      "łyżeczka soli",
+      "pół łyżeczki pieprzu",
+      "czubata łyżka klarowanego masła",
+      "duża cebula",
+      "500 g pomidorów bez skórki",
+      "100 g orzechów nerkowca",
+      "100 ml śmietany kremówki 30%",
+      "łyżka garam masala (dodatkowo)",
+      "łyżeczka kuminu",
+      "łyżeczka imbiru",
+      "łyżeczka curry",
+      "łyżeczka słodkiej papryki",
+      "pół łyżeczki cynamonu",
+      "sól",
+      "świeża kolendra"
+    ],
+    "Sposob_przygotowania": [
+      "Kurczaka pokroić w kostkę ok. 1,5×1,5 cm.",
+      "Czosnek przeciśnięty przez praskę wymieszać z jogurtem, garam masalą, solą i pieprzem. Dodać kurczaka i zamarynować minimum 5 godzin (najlepiej całą noc).",
+      "Na maśle klarowanym przesmażyć cebulę pokrojoną w kostkę. Dodać orzechy, wszystkie przyprawy (dodatkowe garam masala, kumin, imbir, curry, słodką paprykę, cynamon, sól). Smażyć, aż przyprawy pachną.",
+      "Dodać pomidory i dusić na małym ogniu przez 15 minut.",
+      "Zmiksować na gładką masę (blendować).",
+      "Na patelnię wrzucić kurczaka z marynatą, obsmażyć z każdej strony, przełożyć do sosu. Dusić razem przez około 10 minut.",
+      "Wlać śmietanę, wymieszać i lekko podgrzać.",
+      "Podawać z ryżem i świeżą kolendrą."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Pieczone nuggetsy z kurczaka w płatkach kukurydzianych",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "2 pojedyncze filety z piersi kurczaka",
+      "1 szklanka mleka",
+      "1/2 szklanki mąki pszennej",
+      "1 jajko",
+      "sól",
+      "pieprz",
+      "1 i 1/2 łyżeczki słodkiej papryki w proszku",
+      "1/2 łyżeczki ostrej papryki w proszku",
+      "2 i 1/2 szklanki płatków kukurydzianych",
+      "4 łyżki oliwy extra lub roztopionego masła"
+    ],
+    "Sposob_przygotowania": [
+      "Filety z kurczaka umyj, osusz i pokrój w paski o szerokości około 2 cm.",
+      "W misce wymieszaj mleko, mąkę, jajko, sól, pieprz oraz obie papryki, tworząc jednolitą masę.",
+      "Kawałki kurczaka zanurzaj w przygotowanej masie, a następnie obtaczaj w pokruszonych płatkach kukurydzianych.",
+      "Układaj obtoczone kawałki kurczaka na blasze wyłożonej papierem do pieczenia.",
+      "Skrop nuggetsy oliwą lub roztopionym masłem.",
+      "Piec w piekarniku nagrzanym do 200°C przez około 15 minut, aż staną się złociste i chrupiące."
+    ],
+    "Temperatura_pieczenia": "200°C",
+    "Czas_pieczenia": "15 minut"
+  },
+  {
+    "Nazwa": "Zapiekanka gyros",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "2 torebki ryżu (100 g każda) lub 600 g ugotowanego ryżu",
+      "1 podwójna pierś z kurczaka (ok. 600 g)",
+      "2 łyżki oleju do smażenia",
+      "3 łyżeczki przyprawy gyros w proszku",
+      "250 g sera mozzarella w kostce",
+      "150 g kukurydzy konserwowej (po odsączeniu)",
+      "1 czerwona papryka (ok. 190 g)",
+      "2 średnie ogórki kiszone (ok. 90 g)",
+      "2 średnie ogórki konserwowe (ok. 90 g)",
+      "100 g ketchupu",
+      "100 g majonezu",
+      "natka pietruszki do dekoracji"
+    ],
+    "Sposob_przygotowania": [
+      "Kurczaka pokrój w kostkę (ok. 2 cm). W misce wymieszaj mięso z przyprawą gyros. Odstaw na 30 minut.",
+      "Na patelni rozgrzej olej i smaż kurczaka przez około 10 minut, aż będzie dobrze wysmażony. Odstaw do przestudzenia.",
+      "Ugotuj ryż według instrukcji na opakowaniu. Po ugotowaniu odstaw do przestudzenia.",
+      "Warzywa pokrój: ogórki kiszone i konserwowe w grubsze plasterki, paprykę w kawałki na jeden kęs.",
+      "Ser mozzarella zetrzyj na tarce.",
+      "W naczyniu do zapiekania (ok. 20 x 29 cm) ułóż warstwami: ryż, sos z ketchupu i majonezu, kurczaka, warzywa, starty ser.",
+      "Powtórz warstwy, kończąc na serze.",
+      "Piec w piekarniku nagrzanym do 190°C przez około 30 minut, aż ser się roztopi i lekko zrumieni.",
+      "Przed podaniem posyp posiekaną natką pietruszki."
+    ],
+    "Temperatura_pieczenia": "190°C",
+    "Czas_pieczenia": "30 minut"
+  },
+  {
+    "Nazwa": "Schab w sosie węgierskim",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "1 kg schabu wieprzowego",
+      "1 łyżka oliwy",
+      "2 cebule",
+      "2 łyżki papryki słodkiej",
+      "1 łyżeczka papryki ostrej",
+      "2 łyżki koncentratu pomidorowego",
+      "1 szklanka bulionu",
+      "sól",
+      "pieprz"
+    ],
+    "Sposob_przygotowania": [
+      "Schab pokroić w plastry o grubości 1,5–2 cm.",
+      "W szerokim garnku rozgrzać łyżkę oliwy i zeszklić posiekaną cebulę.",
+      "Dodać plastry schabu i obsmażyć je z obu stron na złoty kolor.",
+      "Doprawić solą, pieprzem, papryką słodką i ostrą.",
+      "Dodać koncentrat pomidorowy i wymieszać.",
+      "Wlać bulion, przykryć i dusić na małym ogniu przez około 1 godzinę, aż mięso będzie miękkie.",
+      "Ewentualnie doprawić do smaku solą i pieprzem."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Pulpeciki w sosie pieczarkowym",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "250 g pieczarek",
+      "500 g mielonego mięsa (np. z indyka lub szynki wieprzowej)",
+      "1 cebula",
+      "2 ząbki czosnku",
+      "1 jajko",
+      "1 łyżka sosu sojowego (opcjonalnie)",
+      "3 łyżki bułki tartej",
+      "1 i 1/2 szklanki bulionu drobiowego",
+      "sól",
+      "pieprz",
+      "mąka pszenna",
+      "mąka ziemniaczana",
+      "oliwa"
+    ],
+    "Sposob_przygotowania": [
+      "Na 2 łyżkach oliwy zeszklić drobno posiekaną cebulę, pod koniec dodać starty czosnek i zrumienić.",
+      "Połowę zeszklonej cebuli dodać do mięsa (można ją zmielić razem z mięsem), resztę pozostawić na patelni.",
+      "Do cebuli na patelni dodać pokrojone na plasterki pieczarki. Doprawić solą, pieprzem i smażyć przez ok. 8 minut, co chwilę mieszając. Odstawić.",
+      "Do mięsa z cebulą dodać bułkę tartą, jajko, sos sojowy, sól i pieprz - dokładnie wyrobić.",
+      "Wilgotnymi dłońmi uformować 18 pulpecików.",
+      "Obtoczyć je delikatnie w mące pszennej i obsmażyć na oliwie (na patelni lub w garnku).",
+      "Po podsmażeniu wlać do pulpecików gorący bulion i zagotować.",
+      "Przykryć i gotować 20 minut, w międzyczasie 2 - 3 razy przewrócić pulpeciki.",
+      "Dodać podsmażone pieczarki, wymieszać i zagotować.",
+      "Gotować bez przykrycia przez ok. 5 minut.",
+      "Na koniec przesiać przez sitko 1/2 łyżeczki mąki ziemniaczanej, wymieszać i zagotować."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Pulpeciki w sosie koperkowo-pomidorowym",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "500 g mielonego mięsa (np. z indyka lub szynki wieprzowej)",
+      "1 cebula",
+      "1 jajko",
+      "2 łyżki bułki tartej",
+      "sól",
+      "pieprz",
+      "mąka pszenna do obtoczenia",
+      "olej do smażenia",
+      "1 litr bulionu warzywnego",
+      "3 ½ łyżki przecieru pomidorowego",
+      "50 ml śmietanki kremówki",
+      "2 łyżki posiekanego koperku",
+      "1 łyżka mąki pszennej",
+      "1 łyżeczka mąki ziemniaczanej",
+      "4 łyżki zimnej wody"
+    ],
+    "Sposob_przygotowania": [
+      "W misce wymieszać mielone mięso, startą cebulę, jajko, bułkę tartą, sól i pieprz.",
+      "Wilgotnymi dłońmi uformować pulpeciki i obtoczyć je w mące pszennej.",
+      "Na patelni rozgrzać olej i obsmażyć pulpeciki na złoty kolor.",
+      "W dużym garnku zagotować bulion warzywny.",
+      "Wkładać do niego pulpeciki, przykryć i gotować przez około 20 minut, przewracając je 2–3 razy.",
+      "W międzyczasie przygotować sos: w misce wymieszać przecier pomidorowy, śmietankę, koperek, mąkę pszenną, mąkę ziemniaczaną i zimną wodę.",
+      "Wlać sos do garnka z pulpecikami, wymieszać i gotować na małym ogniu przez około 2 minuty, aż sos zgęstnieje."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Kotlety mielone",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "1 mała bułka (najlepiej czerstwa, np. kajzerka)",
+      "mleko lub woda do namoczenia bułki",
+      "500 g mięsa mielonego (np. szynka wieprzowa, udziec cielęcy lub z indyka)",
+      "1 średnia cebula, starta na tarce",
+      "1 jajko",
+      "1 łyżeczka soli",
+      "1/2 łyżeczki czarnego pieprzu zmielonego",
+      "około 1/4 szklanki zimnej wody",
+      "bułka tarta do obtoczenia",
+      "do podsmażenia: smalec lub masło klarowane lub olej"
+    ],
+    "Sposob_przygotowania": [
+      "Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 10–15 minut.",
+      "Do większej miski włożyć zmielone mięso, startą cebulę, jajko, sól i pieprz oraz odciśniętą bułkę, wszystko dobrze wymieszać.",
+      "Dodać około 1/4 szklanki zimnej wody, kontynuować wyrabianie masy, aż będzie gładka i jednolita.",
+      "Formować kotlety, obtaczać je w bułce tartej.",
+      "Na patelni rozgrzać tłuszcz, smażyć kotlety na złoty kolor z obu stron.",
+      "Podawać z ulubionymi dodatkami."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Papryka faszerowana mielonym mięsem i ryżem",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "4 papryki (czerwone, żółte lub zielone)",
+      "300 g mielonego mięsa (np. wieprzowego, wołowego lub drobiowego)",
+      "1 cebula",
+      "1 ząbek czosnku",
+      "1 szklanka ugotowanego ryżu",
+      "1 jajko",
+      "2 łyżki koncentratu pomidorowego",
+      "1 łyżeczka suszonego oregano",
+      "1/2 łyżeczki soli",
+      "1/4 łyżeczki czarnego pieprzu",
+      "1/2 szklanki tartego sera żółtego (np. mozzarella, cheddar)",
+      "2 łyżki oliwy z oliwek"
+    ],
+    "Sposob_przygotowania": [
+      "Papryki umyć, odciąć górną część i usunąć nasiona.",
+      "Cebulę i czosnek drobno posiekać.",
+      "Na patelni rozgrzać oliwę, dodać cebulę i czosnek, smażyć do zeszklenia.",
+      "Dodać mielone mięso, smażyć, aż się zarumieni.",
+      "Dodać koncentrat pomidorowy, oregano, sól i pieprz, wymieszać.",
+      "Zdjąć z ognia, dodać ugotowany ryż i jajko, wymieszać.",
+      "Napełnić papryki przygotowanym farszem.",
+      "Ułożyć papryki w naczyniu żaroodpornym, posypać tartym serem.",
+      "Piec w piekarniku nagrzanym do 180°C przez około 30 minut, aż papryki będą miękkie, a ser się roztopi."
+    ],
+    "Temperatura_pieczenia": "180°C",
+    "Czas_pieczenia": "30 minut"
+  },
+  {
+    "Nazwa": "Fasolka po bretońsku",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "400 g suchej fasolki 'Piękny Jaś' lub 2 puszki fasolki",
+      "250 g boczku (parzonego lub wędzonego)",
+      "250 g kiełbasy",
+      "1 duża cebula",
+      "2 ząbki czosnku",
+      "1 puszka krojonych pomidorów",
+      "2 łyżki koncentratu pomidorowego",
+      "3 ziela angielskie",
+      "1 liść laurowy",
+      "2 płaskie łyżki suszonego majeranku",
+      "sól",
+      "świeżo zmielony pieprz"
+    ],
+    "Sposob_przygotowania": [
+      "Suchą fasolę wsypać do garnka, zalać zimną wodą (ok. 10 cm ponad poziom fasolki) i odstawić na noc do namoczenia.",
+      "Następnego dnia odcedzić, wlać 1 litr świeżej wody, dodać 1 łyżeczkę soli, ziele angielskie i liść laurowy i gotować pod przykryciem przez około 1 i 1/2 godziny do miękkości.",
+      "Odciąć skórę z boczku, resztę pokroić w kosteczkę. Włożyć na patelnię i co chwilę mieszając dokładnie obsmażyć, przełożyć do garnka z fasolką.",
+      "Na wytopionym tłuszczu dokładnie obsmażyć pokrojoną w kosteczkę kiełbasę, dodać pokrojoną w kosteczkę cebulę i smażyć jeszcze przez ok. 5 minut. Pod koniec dodać starty czosnek.",
+      "Przełożyć do garnka z fasolką i gotować przez ok. 5 minut na większym ogniu bez przykrycia.",
+      "Dodać krojone pomidory z puszki i koncentrat pomidorowy. Doprawić majerankiem, solą i świeżo zmielonym pieprzem. Gotować przez około 15 minut."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Gulasz węgierski",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "1 kg łopatki wieprzowej lub szynki",
+      "100 g parzonego lub gotowanego boczku",
+      "1 duża cebula",
+      "2 średnie marchewki",
+      "1 papryka",
+      "2 łyżki oliwy",
+      "2 łyżki smalcu (lub oliwy)",
+      "4 łyżeczki mielonej słodkiej papryki",
+      "1 łyżeczka mielonej ostrej papryki",
+      "3 łyżeczki suszonego czosnku niedźwiedziego (opcjonalnie)",
+      "ok. 1 l gorącego bulionu lub rosołu",
+      "2 łyżki sosu sojowego (opcjonalnie)",
+      "2 listki laurowe",
+      "3 ziela angielskie",
+      "2 łyżki koncentratu pomidorowego",
+      "200 g pieczarek",
+      "2 łyżki masła",
+      "2 łyżki mąki"
+    ],
+    "Sposob_przygotowania": [
+      "Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.",
+      "W szerokim garnku rozgrzać łyżkę oliwy, dodać boczek i cebulę, zeszklić ją. Dodać drugą łyżkę oliwy, włożyć marchewkę i paprykę i mieszając podsmażać wszystko przez kilka minut.",
+      "W międzyczasie na oddzielnej patelni rozgrzać smalec (lub oliwę) i obsmażyć kawałki mięsa. Doprawić je solą i pieprzem i przenieść do garnka z warzywami. Jeśli mamy, można całość podlać ok. 1/3 szklanki wina (czerwonego lub białego) i na większym ogniu chwilę odparować.",
+      "Zawartość garnka doprawić mieloną papryką i jeśli mamy czosnkiem niedźwiedzim. Wlać gorący bulion (lub rosół) w ilości, aby zakryło składniki. Dodać sos sojowy - jeśli chcemy go dodać, następnie ziele angielskie i listek laurowy, przykryć i dusić na małym ogniu ok. 1 i 1/2 godziny, do miękkości mięsa. Na koniec dodać koncentrat pomidorowy i podsmażone na złoto pokrojone pieczarki.",
+      "Na patelni dobrze rozgrzać masło, dodać mąkę i chwilę podsmażyć mieszając. Przełożyć do garnka, dokładnie wymieszać i zagotować."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Pizzadilla z salami i papryką",
+    "Kategoria": "Przekąski",
+    "Skladniki": [
+      "1 łyżeczka oliwy",
+      "1 nieduża papryka (lub po kawałku różnokolorowych)",
+      "180 g tartej mozzarelli (twardszej i żółtej, nie białej z zalewy)",
+      "40 g salami w plasterkach",
+      "4 łyżki sosu do pizzy",
+      "1/2 łyżeczki suszonego oregano",
+      "świeża bazylia",
+      "2 łyżeczki masła",
+      "2 duże tortille (śr. 25 cm)"
+    ],
+    "Sposob_przygotowania": [
+      "Paprykę pokroić w drobną kostkę, doprawić solą i podsmażyć chwilę na łyżeczce oliwy, odłożyć na talerz.",
+      "Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć placek tortilli i wyłożyć na niego połowę tartego sera, podsmażoną paprykę i plasterki salami. Skropić równomiernie sosem, posypać suszonym oregano i listkami bazylii. Posypać drugą połową tartego sera.",
+      "Przykryć drugim plackiem tortilli i podsmażać ok. 2 minuty, aż tortilla na spodzie się zrumieni."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Dorsz w kremowym sosie z suszonymi pomidorami",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "400 g filetu z dorsza (np. polędwiczki)",
+      "1/2 łyżki masła",
+      "1/2 łyżki oliwy",
+      "1/2 łyżeczki słodkiej papryki",
+      "1/2 łyżeczki tymianku",
+      "2 łyżki pasty z suszonych pomidorów",
+      "125 ml śmietanki 30% lub 18%"
+    ],
+    "Sposob_przygotowania": [
+      "Filety z dorsza umyj, osusz papierowym ręcznikiem i pokrój na porcje.",
+      "Na patelni rozgrzej masło z oliwą. Dodaj filety z dorsza i smaż przez 2–3 minuty z każdej strony, aż staną się złociste.",
+      "Posyp rybę słodką papryką i tymiankiem.",
+      "Dodaj pastę z suszonych pomidorów oraz śmietankę. Gotuj na małym ogniu przez 5–7 minut, aż sos zgęstnieje.",
+      "Podawaj z ulubionymi dodatkami, np. ryżem, ziemniakami lub warzywami."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Krewetki w aromatycznym sosie z chrupiącymi warzywami",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "1 mała cukinia",
+      "1 mała cebulka szalotka",
+      "1 ząbek czosnku",
+      "2 łyżeczki oleju",
+      "200 g krewetek",
+      "100 ml mleka kokosowego",
+      "100 ml bulionu warzywnego",
+      "100 g makaronu ryżowego",
+      "0,5 łyżeczki pieprzu cytrynowego",
+      "0,5 łyżeczki imbiru",
+      "sól do smaku",
+      "1 łyżka drobno posiekanej natki pietruszki"
+    ],
+    "Sposob_przygotowania": [
+      "Krewetki oczyścić, usunąć ogonki.",
+      "Natrzeć krewetki pieprzem cytrynowym i imbirem, odstawić na 5–10 minut.",
+      "Na patelni rozgrzać 1 łyżeczkę oleju, dodać czosnek i smażyć przez chwilę.",
+      "Dodać krewetki i smażyć, aż zmienią kolor na różowy.",
+      "Dodać posiekaną natkę pietruszki, posolić.",
+      "Dodać mleko kokosowe i bulion warzywny, zagotować.",
+      "Na pozostałym oleju smażyć pokrojoną w kostkę cebulę i cukinię, aż staną się złociste.",
+      "Ugotować makaron ryżowy zgodnie z instrukcją na opakowaniu.",
+      "Na patelnię z warzywami dodać ugotowany makaron, wlać sos z krewetkami, wymieszać.",
+      "Przełożyć na talerz, posypać smażonymi warzywami."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Kotlety z ciecierzycy",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "200 g suchej ciecierzycy (niecała szklanka)",
+      "2 średnie marchewki (około 200 g)",
+      "2 średnie cebule (około 170 g)",
+      "3 ząbki czosnku (około 15 g)",
+      "2 łyżki oleju do smażenia",
+      "2 łyżki oleju kokosowego",
+      "garść natki pietruszki",
+      "2 płaskie łyżki bułki tartej bezglutenowej",
+      "przyprawy: płaska łyżeczka soli, pół płaskiej łyżeczki pieprzu, 1/3 łyżeczki słodkiej papryki, spora szczypta kuminu",
+      "odrobina oleju do smażenia"
+    ],
+    "Sposob_przygotowania": [
+      "Dzień wcześniej zalej ciecierzycę zimną wodą (około 500 ml) i mocz przez maksymalnie 12 godzin.",
+      "Po moczeniu przepłucz ciecierzycę na sitku i umieść w garnku.",
+      "Zalej ciecierzycę 500 ml wody, zagotuj, a następnie gotuj na małym ogniu przez około 90 minut, aż będzie miękka.",
+      "Odcedź ugotowaną ciecierzycę i odstaw do przestudzenia.",
+      "Zmiel ciecierzycę w maszynce do mielenia mięsa z drobnymi oczkami.",
+      "W międzyczasie obierz i posiekaj cebule, zetrzyj marchewki na dużych oczkach tarki, a czosnek drobno posiekaj lub przeciśnij przez praskę.",
+      "Na patelni rozgrzej 2 łyżki oleju do smażenia oraz 2 łyżki oleju kokosowego.",
+      "Dodaj cebulę, marchew i czosnek, smaż na średniej mocy palnika przez około 15 minut, aż warzywa zmiękną.",
+      "Dodaj do warzyw drobno posiekaną natkę pietruszki i smaż przez kolejne 2 minuty.",
+      "W dużej misce połącz zmieloną ciecierzycę z podsmażonymi warzywami.",
+      "Dodaj bułkę tartą, przyprawy i dokładnie wymieszaj.",
+      "Formuj z masy kotleciki wielkości sporego orzecha włoskiego.",
+      "Na patelni rozgrzej odrobinę oleju i smaż kotleciki na średniej mocy palnika przez około 4-5 minut z każdej strony, aż będą złociste i chrupiące.",
+      "Podawaj z ulubionymi dodatkami, np. sałatką, sosem jogurtowym lub hummusem."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Curry z ciecierzycy",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "1 łyżka oleju",
+      "1 cebula",
+      "1 łyżeczka świeżo startego imbiru",
+      "2 ząbki czosnku",
+      "1/2 łyżeczki mielonego kminu rzymskiego",
+      "1/2 łyżeczki mielonej kurkumy",
+      "1/2 łyżeczki mielonej kolendry",
+      "1/2 łyżeczki mielonego cynamonu",
+      "1/2 łyżeczki słodkiej papryki",
+      "1/2 łyżeczki ostrej papryki",
+      "1/2 łyżeczki nasion kardamonu",
+      "1 puszka (400 g) pomidorów krojonych",
+      "1 puszka (400 g) ciecierzycy",
+      "1/2 szklanki wody",
+      "1/2 szklanki mleka kokosowego",
+      "sól do smaku",
+      "świeża kolendra do podania"
+    ],
+    "Sposob_przygotowania": [
+      "W szerokim garnku na 1 łyżce oleju zeszklić obraną i pokrojoną w kosteczkę cebulę. Doprawić ją solą, dodać drobno startego imbiru oraz czosnek i smażyć przez około 2 minuty, aż zaczną się lekko rumienić.",
+      "Dodać przyprawy: wyłuskane ziarenka z łusek kardamonu, mielony kumin, kurkumę, cynamon, kolendrę, słodką i ostrą paprykę. Chwilę razem podsmażyć. Skrapiać wodą z ciecierzycy, gdyby składniki chciały przywierać do dna garnka. Smażyć wszystko jeszcze przez minutę.",
+      "Dodać pomidory z puszki, ciecierzycę wraz z częścią zalewy, wodę oraz mleko kokosowe. Doprowadzić do wrzenia, zmniejszyć ogień i gotować przez około 10 minut, aż sos lekko zgęstnieje.",
+      "Podawać posypane świeżą kolendrą, najlepiej z ugotowanym ryżem."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  },
+  {
+    "Nazwa": "Spaghetti z domowym pesto",
+    "Kategoria": "Dania główne",
+    "Skladniki": [
+      "Pesto:",
+      "100 ml oliwy z oliwek (lub innego oleju tłoczonego na zimno)",
+      "2 pęczki świeżej bazylii",
+      "1 mały ząbek czosnku",
+      "sól do smaku",
+      "1 łyżeczka soku z cytryny",
+      "Danie: ",
+      "80 g makaronu (np. orkiszowego)",
+      "1 łyżka przygotowanego pesto",
+      "starty parmezan do posypania"
+    ],
+    "Sposob_przygotowania": [
+      "Wszystkie składniki na pesto umieścić w malakserze i zmiksować na gładką masę.",
+      "Makaron ugotować al dente w osolonej wodzie.",
+      "Odcedzić makaron, wymieszać z przygotowanym pesto.",
+      "Podawać posypane startym parmezanem."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
+  }
 ]
