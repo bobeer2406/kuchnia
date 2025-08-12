@@ -948,29 +948,5 @@
   ],
   "Temperatura_pieczenia": null,
   "Czas_pieczenia": null
-},
-{
-  "Nazwa": "Spaghetti z domowym pesto",
-  "Kategoria": "Dania główne",
-  "Skladniki": [
-    "Pesto:",
-    "100 ml oliwy z oliwek (lub innego oleju tłoczonego na zimno)",
-    "2 pęczki świeżej bazylii",
-    "1 mały ząbek czosnku",
-    "sól do smaku",
-    "1 łyżeczka soku z cytryny",
-    "Danie: ",
-    "80 g makaronu (np. orkiszowego)",
-    "1 łyżka przygotowanego pesto",
-    "starty parmezan do posypania"
-    ]
-  "Sposob_przygotowania": [
-    "Wszystkie składniki na pesto umieścić w malakserze i zmiksować na gładką masę.",
-    "Makaron ugotować al dente w osolonej wodzie.",
-    "Odcedzić makaron, wymieszać z przygotowanym pesto.",
-    "Podawać posypane startym parmezanem."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
 }
 ]
