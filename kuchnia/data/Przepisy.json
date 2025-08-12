@@ -375,8 +375,8 @@
       "Na 2 minuty przed końcem gotowania dodać posiekany koperek.",
       "Po zdjęciu z ognia zaprawić śmietaną do zup i podawać."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Zupa z zielonej soczewicy z makaronem",
@@ -408,8 +408,8 @@
       "Dodać koncentrat pomidorowy, wymieszać i gotować przez ok. 2 minuty.",
       "Podawać gorącą zupę posypaną natką pietruszki i chili; żeberka można obrać i dodać mięso z powrotem do zupy."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Zupa ogórkowa",
@@ -434,8 +434,8 @@
       "Dodać starte na tarce obrane ogórki oraz jeśli mamy, połowę szklanki soku z kiszonych ogórków, gotować przez ok. 10 minut.",
       "Zdjąć z ognia, dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z kilkoma łyżkami wywaru), wymieszać i podawać."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   },
   {
     "Nazwa": "Kapuśniak z kiszonej kapusty",
@@ -468,8 +468,8 @@
       "Na patelni na maśle klarowanym lub oleju podsmażyć boczek pokrojony w paski, potem dodać mąkę i, energicznie mieszając, wlewać stopniowo wywar z zupy. Przełożyć zawartość patelni do zupy i zagotować.",
       "Na koniec wyjąć cebulę, selera, pietruszkę i natkę z zupy. Doprawić świeżo zmielonym czarnym pieprzem, spróbować wywar i ewentualnie dodać sól."
     ],
-    "Temperatura_pieczenia": null,
-    "Czas_pieczenia": null
+    "Temperatura_pieczenia": "",
+    "Czas_pieczenia": ""
   }
 
 
