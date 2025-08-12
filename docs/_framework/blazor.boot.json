@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kuchnia",
   "resources": {
-    "hash": "sha256-9rBkv52yDXjQByc1n8eY+UHJ0zFtqDNtNv5dUH1qacQ=",
+    "hash": "sha256-opZYdvM27Cr/LcQT1BNMLRgkdXS4cnhHfkSBV2QELew=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-GDb/3QWVXmCkthIDhFAT+YpxnL0UhsjDh4mJ+Xv80iA=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
       "System.Private.CoreLib.wasm": "sha256-kvNnct5M74OC78Sv4ncl+ms2SizNZDIYdCFdwXZ2pDU=",
-      "kuchnia.wasm": "sha256-VFkwCHiLl4HSN6ST2WtAm3Uz+7AwnMkiZYLeUoJJtm0="
+      "kuchnia.wasm": "sha256-t0Detxt9EzUZY053gGJcBlFRiNVSDCTJ8x7TCKoKLlI="
     }
   },
   "cacheBootResources": true,

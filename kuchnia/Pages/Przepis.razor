@@ -18,7 +18,7 @@ else
         @foreach (var r in przepis)
         {
             <li>
-                <a href="@($"/Przepis/{Uri.EscapeDataString(r.nazwa)}")">@r.nazwa</a>
+                <a href="@($"/kuchnia/Przepis/{Uri.EscapeDataString(r.nazwa)}")">@r.nazwa</a>
             </li>
         }
     </ul>
