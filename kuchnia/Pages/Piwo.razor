@@ -1,0 +1,41 @@
+﻿@page "/piwo"
+@inject kuchnia.Service.RecepturaService RecepturaService
+
+<h1>Proces warzenia piwa</h1>
+
+@if (piwo == null)
+{
+    <p><em>Ładowanie danych...</em></p>
+}
+else
+{
+    <h2>Spis treści</h2>
+    <ul>
+        @foreach (var punkt in piwo.Spis_tresci)
+        {
+            <li>@punkt</li>
+        }
+    </ul>
+
+    <h3>Gotowanie</h3>
+    <p>@piwo.gotowanie</p>
+
+    <h3>Cicha Fermentacja</h3>
+    <p>@piwo.fermentacja</p>
+
+    <h3>Butelkowanie</h3>
+    <p>@piwo.Butelkowanie</p>
+}
+
+@code {
+    private kuchnia.Service.Piwo piwo;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/main/kuchnia/data/Piwo.json";
+
+        var lista = await RecepturaService.PobierzDaneAsync<kuchnia.Service.Piwo>(url);
+
+        piwo = lista.FirstOrDefault();
+    }
+}
