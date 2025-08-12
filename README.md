@@ -1,0 +1,11 @@
+To repozytorium stanowi zbiór moich ulubionych przepisów kulinarnych, które nie są udostępniane publicznie i służą wyłącznie celom prywatnym. 
+Głównym założeniem projektu jest zapewnienie szybkiego i prostego dostępu do sprawdzonych przepisów, dzięki czemu mogę wygodnie odnaleźć swoje ulubione dania w jednym miejscu.
+
+Źródła inspiracji
+Przepisy zawarte w tym repozytorium zostały zainspirowane i zaczerpnięte z następujących stron:
+
+Kwestia Smaku
+
+Ania Gotuje
+
+Qchenne Inspiracje
