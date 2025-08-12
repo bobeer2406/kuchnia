@@ -13,9 +13,11 @@ else if (przepisy.Count == 0)
 }
 else
 {
+    <input type="text" placeholder="Szukaj przepisu..." @bind="frazaSzukaj" class="form-control mb-3" />
+
     <select @onchange="OnPrzepisChanged" class="form-select">
         <option value="">-- Wybierz przepis --</option>
-        @foreach (var p in przepisy)
+        @foreach (var p in filtrowanePrzepisy)
         {
             <option value="@p.nazwa">@p.nazwa</option>
         }
@@ -51,6 +53,13 @@ else
 @code {
     private List<kuchnia.Service.Przepis> przepisy;
     private kuchnia.Service.Przepis wybranyPrzepis;
+
+    private string frazaSzukaj = "";
+
+    private IEnumerable<kuchnia.Service.Przepis> filtrowanePrzepisy =>
+        string.IsNullOrWhiteSpace(frazaSzukaj)
+            ? przepisy
+            : przepisy.Where(p => p.nazwa.Contains(frazaSzukaj, StringComparison.OrdinalIgnoreCase));
 
     protected override async Task OnInitializedAsync()
     {
