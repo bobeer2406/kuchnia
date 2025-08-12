@@ -5,34 +5,46 @@ namespace kuchnia.Service
 {
     public class RecepturaService
     {
-            private readonly HttpClient _http;
+        private readonly HttpClient _http;
 
-            public RecepturaService(HttpClient http)
+        public RecepturaService(HttpClient http)
+        {
+            _http = http;
+        }
+
+        // Metoda generyczna do pobierania dowolnych danych JSON
+        public async Task<List<T>> PobierzDaneAsync<T>(string url)
+        {
+            try
             {
-                _http = http;
+                var json = await _http.GetStringAsync(url);
+
+                var dane = JsonSerializer.Deserialize<List<T>>(json, new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+
+                return dane ?? new List<T>();
             }
-
-            public async Task<List<Receptura>> PobierzRecepturyAsync(string url)
+            catch (Exception ex)
             {
-                try
-                {
-                    var json = await _http.GetStringAsync(url);
-                    var receptury = JsonSerializer.Deserialize<List<Receptura>>(json, new JsonSerializerOptions
-                    {
-                        PropertyNameCaseInsensitive = true
-                    });
-                    return receptury ?? new List<Receptura>();
-                }
-                catch (Exception ex)
-                {
-                    // Możesz dodać logowanie błędu tutaj
-                    return new List<Receptura>();
-                    string status = $"Błąd podczas ładowania danych: {ex.Message}";
-                }
+                Console.WriteLine($"Błąd podczas ładowania danych z {url}: {ex.Message}");
+                return new List<T>();
             }
         }
+
+        // Stara metoda - dla kompatybilności
+        public async Task<List<Receptura>> PobierzRecepturyAsync(string url)
+        {
+            return await PobierzDaneAsync<Receptura>(url);
+        }
+        public async Task<List<Przepis>> PobierzPrzepisAsync(string url)
+        {
+            return await PobierzDaneAsync<Przepis>(url);
+        }
     }
-namespace kuchnia.Service
+}
+    namespace kuchnia.Service
 {
         public class Receptura
         {
@@ -40,6 +52,7 @@ namespace kuchnia.Service
             public List<string> skladniki { get; set; }
             public List<string> zalewa { get; set; }
             public string przygotowanie { get; set; }
+
         }
         public class Przepis
         {
@@ -50,6 +63,7 @@ namespace kuchnia.Service
         public string Temperatura_pieczenia { get; set; }
         public string Czas_pieczenia { get; set; }
         }
+
  }
 
 
