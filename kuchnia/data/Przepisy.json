@@ -229,7 +229,7 @@
   },
   {
     "Nazwa": "Placki z piersi z kurczaka",
-    "Kategoria": "Dania mięsne",
+    "Kategoria": "Dania główne",
     "Skladniki": [
       "1 podwójna pierś z kurczaka",
       "3 jaja",
@@ -290,7 +290,7 @@
   },
   {
     "Nazwa": "Ruskie pierogi",
-    "Kategoria": "Dania obiadowe",
+    "Kategoria": "Dania główne",
     "Skladniki": [
       "30 dag sera białego 30%",
       "1/3 ugotowanych ziemniaków",
@@ -308,7 +308,7 @@
   },
   {
     "Nazwa": "Zupa z cukinii",
-    "Kategoria": "Zupy krem",
+    "Kategoria": "Zupy",
     "Skladniki": [
       "600 g cukinii",
       "1 łyżka oliwy",
@@ -972,5 +972,46 @@
     ],
     "Temperatura_pieczenia": "",
     "Czas_pieczenia": ""
+  },
+  {
+    "Nazwa": "Ciasto z mascarpone",
+    "Kategoria": "Wypieki",
+    "Skladniki": [
+      "Ciasto czekoladowe: ",
+      "1,5 szklanki mąki pszennej tortowej lub uniwersalnej (240 g)",
+      "około 3/4 szklanki cukru (160 g)",
+      "około 3/4 szanki oleju (160 g)",
+      "0,5 szklanki wody (125 ml)",
+      "3 łyżki ciemnego kakao",
+      "5 dużych lub 6 małych jajek",
+      "około 0,5 szklanki cukru (130 g)",
+      "po łyżeczce proszku do pieczenia i sody oczyszczonej",
+      "Krem z mascarpone: ",
+      "500 g serka mascarpone",
+      "400 g śmietanki kremówki 30% (około 1,5 szklanki)",
+      "1 mała saszetka cukru wanilinowego",
+      "4 pełne łyżki cukru pudru (100 g)",
+      "2 saszetki śmietan fix",
+      "Czekoladowa polewa",
+      "100 g gorzkiej czekolady (60%)",
+      "50 g dobrej jakości mlecznej czekolady",
+      "100 g śmietanki kremówki 30%"
+
+    ],
+    "Sposob_przygotowania": [
+      "W rondelku podgrzać olej, wodę, kakao i cukier, aż składniki się połączą i masa zacznie się gotować. Odstawić do przestudzenia.",
+      "W misce ubić jajka z cukrem na puszystą masę.",
+      "Do ubitych jajek dodać przestudzoną masę czekoladową i delikatnie wymieszać.",
+      "Przesiać mąkę z proszkiem do pieczenia i sodą, dodać do masy, delikatnie wymieszać.",
+      "Przelać ciasto do formy (24x24 cm) wyłożonej papierem do pieczenia.",
+      "Piec w temperaturze 175°C przez około 60 minut. Po upieczeniu wystudzić.",
+      "W międzyczasie przygotować krem: ubić schłodzoną śmietankę z mascarpone, cukrem pudrem, cukrem wanilinowym i śmietan fix na sztywny krem.",
+      "Wystudzone ciasto przekroić na pół, na dolną część nałożyć krem, przykryć drugą częścią ciasta.",
+      "Przygotować polewę: w rondelku podgrzać śmietankę, dodać pokruszoną czekoladę, mieszać, aż czekolada się rozpuści.",
+      "Polewą oblać wierzch ciasta, odstawić do stężenia."
+    ],
+    "Temperatura_pieczenia": "175°C",
+    "Czas_pieczenia": "około 60 minut"
   }
+
 ]
