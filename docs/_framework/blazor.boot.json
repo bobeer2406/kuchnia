@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kuchnia",
   "resources": {
-    "hash": "sha256-Z8bN4pHaMPoSXoT9YBfMsjVP7KGDfKinWNJNaeQvFk4=",
+    "hash": "sha256-TJcrX067xzlfwXBPnxYqzwdW3CvVAXGIQTeiX7MhJtw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-4gr61nzwcBUQntuXqzcGvOiWj8lkPfgA9KNbhdPgmHk=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-u9Qj5h8gn2IzVZt1NpMen6bqptfAu8+lXzswap4jeAA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-YBo05jwwpO4uPXIbILQOXgv5Yq9IgMFtG8Wxykcx7vY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9BvHREQWEIdW8gRIV5ZXtGyaHdxZw8eOrWJ1OqWrLT8=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
@@ -37,7 +37,7 @@
       "System.ComponentModel.wasm": "sha256-IYiS8atQVwkYAflPs8m6BRCgI2804RatWwg2UGnGMzU=",
       "System.Console.wasm": "sha256-hPECRwlKEllkRT2QC9o5MzZUIgUzftKpUrz33UPLVJw=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-JuJHacGWY0CcxmSWyosCX9iCSU/5wRNtfGqAVdktufE=",
-      "System.Linq.wasm": "sha256-i5NC5/JHrrmWa4bE478YicHZD/d8bZPQAwEwGwDigv4=",
+      "System.Linq.wasm": "sha256-c8mUm3Pfb3cEYkOsIxsVnalcdZd20y5olTaxdZi7V7c=",
       "System.Memory.wasm": "sha256-MWAHg+YFxgBvZZyzqKGl4SjtgN2Rwy6LtleghJHqTr4=",
       "System.Net.Http.Json.wasm": "sha256-zpsG/FDH4Q51YDmwf67LEQDS3o3ZfsqLCF9jcI1kmZI=",
       "System.Net.Http.wasm": "sha256-tb9jn9dLSmZhN9qfzzEVAZZbz/PFb5P9P/HmzHlRq5Q=",
@@ -48,8 +48,8 @@
       "System.Text.Encodings.Web.wasm": "sha256-cT0gUqY2VhbDmvQxpulllXn00KgHu1fkmyjMeQtUTvM=",
       "System.Text.Json.wasm": "sha256-GDb/3QWVXmCkthIDhFAT+YpxnL0UhsjDh4mJ+Xv80iA=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
-      "System.Private.CoreLib.wasm": "sha256-v+yjlTevBOODEgx9fDxKPvq5bOqu0Hvabdh/7/Dj9Hw=",
-      "kuchnia.wasm": "sha256-H1VQqA5PTIfd1BqUHThhYzrZ38sahlXYs9ySbpDlWXs="
+      "System.Private.CoreLib.wasm": "sha256-R4R6gpJoRrjjeLCvmdpP3Wzmiy4pTDFSPCWBZyefImk=",
+      "kuchnia.wasm": "sha256-xTeGN7rPFywi0gnU04G6FOg8IfS/s2z/UnHIijrGd00="
     }
   },
   "cacheBootResources": true,

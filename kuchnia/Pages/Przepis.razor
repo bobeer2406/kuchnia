@@ -15,6 +15,14 @@ else
 {
     <input type="text" placeholder="Szukaj przepisu..." @bind="frazaSzukaj" class="form-control mb-3" />
 
+    <select @onchange="OnKategoriaChanged" class="form-select mb-3">
+        <option value="">-- Wybierz kategorię --</option>
+        @foreach (var kat in kategorie)
+        {
+            <option value="@kat" selected="@(kat == wybranaKategoria)">@kat</option>
+        }
+    </select>
+
     <select @onchange="OnPrzepisChanged" class="form-select">
         <option value="">-- Wybierz przepis --</option>
         @foreach (var p in filtrowanePrzepisy)
@@ -55,21 +63,32 @@ else
     private kuchnia.Service.Przepis wybranyPrzepis;
 
     private string frazaSzukaj = "";
+    private string wybranaKategoria = "";
+
+    private List<string> kategorie = new List<string>();
 
     private IEnumerable<kuchnia.Service.Przepis> filtrowanePrzepisy =>
-        string.IsNullOrWhiteSpace(frazaSzukaj)
-            ? przepisy
-            : przepisy.Where(p => p.nazwa.Contains(frazaSzukaj, StringComparison.OrdinalIgnoreCase));
+        przepisy
+            .Where(p =>
+                (string.IsNullOrWhiteSpace(frazaSzukaj) || p.nazwa.Contains(frazaSzukaj, StringComparison.OrdinalIgnoreCase))
+                && (string.IsNullOrWhiteSpace(wybranaKategoria) || p.Kategoria == wybranaKategoria));
 
     protected override async Task OnInitializedAsync()
     {
         var url = "https://raw.githubusercontent.com/bobeer2406/kuchnia/main/kuchnia/data/Przepisy.json";
         przepisy = await RecepturaService.PobierzPrzepisAsync(url);
+        kategorie = przepisy.Select(p => p.Kategoria).Distinct().OrderBy(k => k).ToList();
     }
 
     private void OnPrzepisChanged(ChangeEventArgs e)
     {
         var nazwa = e.Value?.ToString();
         wybranyPrzepis = przepisy.FirstOrDefault(p => p.nazwa == nazwa);
+    }
+
+    private void OnKategoriaChanged(ChangeEventArgs e)
+    {
+        wybranaKategoria = e.Value?.ToString() ?? "";
+        wybranyPrzepis = null; // reset wyboru przepisu po zmianie kategorii
     }
 }
