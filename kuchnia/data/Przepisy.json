@@ -267,7 +267,7 @@
   },
   {
     "Nazwa": "Racuchy z jabłkami",
-    "Kategoria": "Wypieki",
+    "Kategoria": "Placki",
     "Skladniki": [
       "2 dag drożdży",
       "1 łyżka cukru",
@@ -1041,26 +1041,26 @@
     "Czas_pieczenia": "około 15 minut"
   },
   {
-  "Nazwa": "Racuchy z jabłkami",
-  "Kategoria": "Placki",
-  "Skladniki": [
-    "2 jabłka",
-    "200 ml mleka (niepełna 1 szklanka)",
-    "1 jajko",
-    "150 g mąki pszennej (1 szklanka)",
-    "1 łyżka cukru wanilinowego",
-    "1 łyżeczka cukru",
-    "1/2 łyżeczki sody oczyszczonej",
-    "tłuszcz do smażenia (np. masło klarowane, olej kokosowy lub inny olej roślinny)"
-  ],
-  "Sposob_przygotowania": [
-    "Mąkę przesiać do miski, dodać cukier wanilinowy, cukier oraz sodę oczyszczoną, wymieszać.",
-    "Dodać mleko i jajko, wymieszać rózgą na jednolitą masę bez grudek.",
-    "Obrane i pokrojone w plasterki jabłka dodać do ciasta i wymieszać.",
-    "Nakładać na rozgrzany tłuszcz porcje ciasta (ok. 1 łyżka ciasta plus 3 plasterki jabłek), smażyć ok. 1,5 minuty na złoto z każdej strony.",
-    "Podawać z cukrem pudrem, dżemem wiśniowym lub innymi ulubionymi dodatkami."
-  ],
-  "Temperatura_pieczenia": null,
-  "Czas_pieczenia": null
+    "Nazwa": "Racuchy z jabłkami bez drożdzy",
+    "Kategoria": "Placki",
+    "Skladniki": [
+      "2 jabłka",
+      "200 ml mleka (niepełna 1 szklanka)",
+      "1 jajko",
+      "150 g mąki pszennej (1 szklanka)",
+      "1 łyżka cukru wanilinowego",
+      "1 łyżeczka cukru",
+      "1/2 łyżeczki sody oczyszczonej",
+      "tłuszcz do smażenia (np. masło klarowane, olej kokosowy lub inny olej roślinny)"
+    ],
+    "Sposob_przygotowania": [
+      "Mąkę przesiać do miski, dodać cukier wanilinowy, cukier oraz sodę oczyszczoną, wymieszać.",
+      "Dodać mleko i jajko, wymieszać rózgą na jednolitą masę bez grudek.",
+      "Obrane i pokrojone w plasterki jabłka dodać do ciasta i wymieszać.",
+      "Nakładać na rozgrzany tłuszcz porcje ciasta (ok. 1 łyżka ciasta plus 3 plasterki jabłek), smażyć ok. 1,5 minuty na złoto z każdej strony.",
+      "Podawać z cukrem pudrem, dżemem wiśniowym lub innymi ulubionymi dodatkami."
+    ],
+    "Temperatura_pieczenia": null,
+    "Czas_pieczenia": null
 }
 ]
